@@ -21,6 +21,7 @@ cd color-palette-picker
 1. Open the index.html file.
 2. Browse through the color palette.
 3. Click on a color to copy its RGB value to the output field.
+   
 ## Customization
 - To customize the design, edit the CSS in `style.css`.
 - To change the color generation logic or add more functionalities, modify the JavaScript in `script.js`.
