@@ -8,7 +8,10 @@ Customizable end message.
 Responsive design.
 
 ## Demo
-[Link to demo](https://codepen.io/Shravan-Dalavi/pen/RwzpXrM).
+[Link to demo](https://codepen.io/Shravan-Dalavi/pen/RwzpXrM)
+<br>
+
+![image](https://github.com/user-attachments/assets/86d9c944-1957-47e7-a473-e1ad059f0e44)
 
 ## Installation
 1. Clone the repository:
