@@ -11,7 +11,7 @@ Here is a list of the projects included in this repository:
 
 | **No.** | **Name** |  **Demo** |
 | ------- | -------- | -------- | 
-|  **01** | [**Countdown Timer**](https://github.com/ShravanDalavi/Web-Mini-Projects/blob/main/projects/Countdown%20Timer/README.md)  | [Link]() | 
+|  **01** | [**Countdown Timer**](https://github.com/ShravanDalavi/Web-Mini-Projects/blob/main/projects/Countdown%20Timer/README.md)  | [Link](https://codepen.io/Shravan-Dalavi/pen/RwzpXrM) | 
 
 ## How to Run
 
