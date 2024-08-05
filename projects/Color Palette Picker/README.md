@@ -17,7 +17,6 @@ git clone https://github.com/yourusername/color-palette-picker.git
 cd color-palette-picker
 ```
 2. Open index.html in your preferred browser.
-
 ## Usage
 1. Open the index.html file.
 2. Browse through the color palette.
