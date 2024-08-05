@@ -27,5 +27,5 @@ cd countdown-timer
 3. Customize the end message and design as needed.
 ## Customization
 - To set the countdown duration, modify the targetDate variable in `script.js`.
-- To change the end message, update the endMessage variable in script.js.
+- To change the end message, update the endMessage variable in `script.js`.
 - Customize the design by editing the CSS in `styles.css`.
