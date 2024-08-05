@@ -5,7 +5,6 @@ A web application that generates a color palette and allows users to pick and co
 - Generate a wide range of colors in the palette.
 - Click on any color to copy its value to the clipboard.
 - Responsive design for different screen sizes.
-
 ## Demo
 [Link to demo](https://codepen.io/Shravan-Dalavi/pen/bGPqXVz)
 <br>
