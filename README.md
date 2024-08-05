@@ -1,1 +1,77 @@
 # Web-Mini-Projects
+Welcome to the Web-Mini-Projects repository! This repository contains a collection of small web-based projects designed to improve your web development skills. Each project focuses on a specific functionality and uses various web technologies.
+
+## Introduction
+
+This repository is a collection of mini web projects built with HTML, CSS, and JavaScript. The projects include a digital clock, a countdown timer, a color palette picker, and more. These projects are ideal for beginners who want to practice and enhance their web development skills.
+
+## Projects
+
+Here is a list of the projects included in this repository:
+
+| **No.** | **Name** |  **Demo** |
+| ------- | -------- | -------- | 
+|  **01** | **   **  | [Link]() | 
+
+## How to Run
+
+To run these projects locally, follow these steps:
+
+1. Clone the repository to your local machine:
+
+    ```bash
+    git clone https://github.com/yourusername/Web-Mini-Projects.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd Web-Mini-Projects/Project-Name
+    ```
+
+3. Open the `index.html` file in your web browser to view and run the project.
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- Node.js (for backend projects)
+- Express (for backend projects)
+- Socket.io (for real-time applications)
+- Various APIs
+
+## Prerequisites
+Before running these projects, ensure you have the following installed on your machine:
+
+- A web browser (e.g., Chrome, Firefox, Safari)
+- A text editor or IDE (e.g., VS Code, Sublime Text)
+
+For certain projects that may involve additional tooling, follow any specific instructions provided in the project's subfolder.
+
+## How can I read this tutorial without an Internet connection? <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" />
+
+1. Go [**`here`**](https://github.com/ShravanDalavi/C_ProgrammingProjects) and click the big green ➞  **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**](https://github.com/shravandalavi/C_ProgrammingProjects/archive/refs/heads/main.zip).
+
+  ![image](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/assets/172488772/fe6f519f-afbd-49d1-9efc-5f6b5f234340)
+  
+2. Extract the ZIP and open it. Unfortunately I don't have any more specific instructions because how exactly this is done depends on which operating system you run.    
+3. Launch ipython notebook from the folder which contains the notebooks. Open each one of them
+  
+    **`Kernel > Restart & Clear Output`**
+    
+This will clear all the outputs and now you can understand each statement and learn interactively.
+<br>
+If you have git and you know how to use it, you can also clone the repository instead of downloading a zip and extracting it. An advantage with doing it this way is that you don't need to download the whole tutorial again to get the latest version of it, all you need to do is to pull with git and run ipython notebook again.
+## Licence 📜
+You may use this tutorial freely at your own risk. See [LICENSE](./LICENSE).
+## Contributors ✨
+- Shravan Dalavi
+  - Contact: shravandalavi137@gmail.com
+  - GitHub: [Profile](https://github.com/ShravanDalavi)
+- Ashwini Sonawane
+  - Contact: ashwinisonawane@gmail.com
+  - GitHub:  [Profile](https://github.com/SonawaneAshwini)
+    
+**If you like this tutorial, please [give it a ⭐ star](https://github.com/ShravanDalavi/C_ProgrammingProjects).**
+
+**Thank you for visiting my repository! I hope you find my projects interesting and useful. 😊**
