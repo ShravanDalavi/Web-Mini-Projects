@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - Digital Clock</title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital Clock</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Digital Clock</h1>
+        <div>
+            <label for="country">Select Country:</label>
+            <select id="country" onchange="updateTimeZone()">
+                <option value="America/New_York">New York</option>
+                <option value="Europe/London">London</option>
+                <option value="Asia/Tokyo">Tokyo</option>
+                <option value="Australia/Sydney">Sydney</option>
+                <option value="Asia/Kabul">Afghanistan</option>
+                <option value="Asia/Yerevan">Armenia</option>
+                <option value="Asia/Baku">Azerbaijan</option>
+                <option value="Asia/Manama">Bahrain</option>
+                <option value="Asia/Dhaka">Bangladesh</option>
+                <option value="Asia/Thimphu">Bhutan</option>
+                <option value="Asia/Brunei">Brunei</option>
+                <option value="Asia/Yangon">Myanmar (Burma)</option>
+                <option value="Asia/Phnom_Penh">Cambodia</option>
+                <option value="Asia/Beijing">China</option>
+                <option value="Asia/Nicosia">Cyprus</option>
+                <option value="Asia/Tbilisi">Georgia</option>
+                <option value="Asia/Kolkata">India</option>
+                <option value="Asia/Jakarta">Indonesia</option>
+                <option value="Asia/Tehran">Iran</option>
+                <option value="Asia/Baghdad">Iraq</option>
+                <option value="Asia/Jerusalem">Israel</option>
+                <option value="Asia/Tokyo">Japan</option>
+                <option value="Asia/Amman">Jordan</option>
+                <option value="Asia/Almaty">Kazakhstan</option>
+                <option value="Asia/Nairobi">Kenya</option>
+                <option value="Asia/Kuwait">Kuwait</option>
+                <option value="Asia/Bishkek">Kyrgyzstan</option>
+                <option value="Asia/Laos">Laos</option>
+                <option value="Asia/Beirut">Lebanon</option>
+                <option value="Asia/Kuala_Lumpur">Malaysia</option>
+                <option value="Asia/Male">Maldives</option>
+                <option value="Asia/Ulaanbaatar">Mongolia</option>
+                <option value="Asia/Kathmandu">Nepal</option>
+                <option value="Asia/Muscat">Oman</option>
+                <option value="Asia/Islamabad">Pakistan</option>
+                <option value="Asia/Manila">Philippines</option>
+                <option value="Asia/Qatar">Qatar</option>
+                <option value="Asia/Riyadh">Saudi Arabia</option>
+                <option value="Asia/Singapore">Singapore</option>
+                <option value="Asia/Seoul">South Korea</option>
+                <option value="Asia/Colombo">Sri Lanka</option>
+                <option value="Asia/Damascus">Syria</option>
+                <option value="Asia/Taipei">Taiwan</option>
+                <option value="Asia/Dushanbe">Tajikistan</option>
+                <option value="Asia/Bangkok">Thailand</option>
+                <option value="Asia/Ankara">Turkey</option>
+                <option value="Asia/Ashgabat">Turkmenistan</option>
+                <option value="Asia/Abu_Dhabi">United Arab Emirates</option>
+                <option value="Asia/Tashkent">Uzbekistan</option>
+                <option value="Asia/Hanoi">Vietnam</option>
+                <option value="Asia/Sana'a">Yemen</option>
+                <option value="America/New_York">New York</option>
+                <option value="Europe/London">London</option>
+                <option value="Australia/Sydney">Sydney</option>
+                <option value="America/Los_Angeles">USA</option>
+                <!-- Add more countries as needed -->
+            </select>
+        </div>
+        <div>
+            <label for="format">Time Format:</label>
+            <select id="format" onchange="updateClockFormat()">
+                <option value="12">12-hour</option>
+                <option value="24">24-hour</option>
+            </select>
+        </div>
+        <div id="clock"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
+<!-- partial -->
+  <script  src="./script.js"></script>
+
+</body>
+</html>
