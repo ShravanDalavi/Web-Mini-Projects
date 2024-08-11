@@ -6,7 +6,7 @@ Search for images using keywords.
 Display images in a grid layout.
 Responsive design.
 ## Demo
-[Link to demo](https://codepen.io/Shravan-Dalavi/pen/gONWMNe).
+[Link to demo](https://codepen.io/Shravan-Dalavi/pen/gONWMNe)
 
 ## Installation
 1. Clone the repository:
