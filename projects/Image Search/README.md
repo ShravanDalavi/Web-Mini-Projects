@@ -17,9 +17,9 @@ cd image-search
 2. Open `index.html` in your preferred browser.
 
 ## Usage
-Open the `index.html` file.
-Enter a keyword in the search box and press the search button.
-View the search results displayed as images.
+1. Open the `index.html` file.
+2. Enter a keyword in the search box and press the search button.
+3. View the search results displayed as images.
 
 ## Customization
 - To customize the design, edit the CSS in `style.css`.
