@@ -22,8 +22,8 @@ Enter a keyword in the search box and press the search button.
 View the search results displayed as images.
 
 ## Customization
-To customize the design, edit the CSS in `style.css`.
-To change the API or add more functionalities, modify the JavaScript in `script.js`.
+- To customize the design, edit the CSS in `style.css`.
+- To change the API or add more functionalities, modify the JavaScript in `script.js`.
 
 ## File Structure
 - `index.html`: The main HTML file containing the structure of the search interface.
