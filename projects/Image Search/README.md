@@ -26,6 +26,6 @@ To customize the design, edit the CSS in `style.css`.
 To change the API or add more functionalities, modify the JavaScript in `script.js`.
 
 ## File Structure
-`index.html`: The main HTML file containing the structure of the search interface.
-`style.css`: The CSS file for styling the search interface.
-`script.js`: The JavaScript file for handling the search functionality and interacting with the API.
+- `index.html`: The main HTML file containing the structure of the search interface.
+- `style.css`: The CSS file for styling the search interface.
+- `script.js`: The JavaScript file for handling the search functionality and interacting with the API.
