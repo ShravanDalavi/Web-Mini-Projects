@@ -1,8 +1,4 @@
 # Image Search
-
-A Pen created on CodePen.io. Original URL: [https://codepen.io/Shravan-Dalavi/pen/gONWMNe](https://codepen.io/Shravan-Dalavi/pen/gONWMNe).
-
-## Image Search
 A web application that allows users to search for images using a keyword. The images are fetched from an API and displayed on the page.
 
 ## Features
