@@ -11,7 +11,7 @@ A simple and intuitive web-based notes app.
 - User-friendly Interface: Clean and intuitive interface for easy note-taking.
 
 ## Demo
-[Link to demo](https://codepen.io/Shravan-Dalavi/pen/oNrWLKZ).
+[Link to demo](https://codepen.io/Shravan-Dalavi/pen/oNrWLKZ)
 
 ## Installation
 1. **Clone the Repository:**
