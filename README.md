@@ -15,7 +15,7 @@ Here is a list of the projects included in this repository:
 |  **02** | [**Countdown Timer**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Countdown%20Timer)  | [Link](https://codepen.io/Shravan-Dalavi/pen/RwzpXrM) | 
 |  **03** | [**Digital Clock**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Digital%20Clock)  | [Link](https://codepen.io/Shravan-Dalavi/pen/vYqxoGR) | 
 |  **04** | [**Image Search**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Image%20Search)  | [Link](https://codepen.io/Shravan-Dalavi/pen/gONWMNe) | 
-|  **05** | [**Notes App**]()  | [Link](https://codepen.io/Shravan-Dalavi/pen/gONWMNe) | 
+|  **05** | [**Notes App**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Notes%20App)  | [Link](https://codepen.io/Shravan-Dalavi/pen/gONWMNe) | 
 
 ## How to Run
 To run these projects locally, follow these steps:
