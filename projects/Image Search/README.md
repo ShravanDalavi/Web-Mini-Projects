@@ -5,6 +5,7 @@ A web application that allows users to search for images using a keyword. The im
 Search for images using keywords.
 Display images in a grid layout.
 Responsive design.
+
 ## Demo
 [Link to demo](https://codepen.io/Shravan-Dalavi/pen/gONWMNe)
 
