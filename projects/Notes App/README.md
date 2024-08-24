@@ -1,5 +1,4 @@
 # Notes App
-
 A simple and intuitive web-based notes app.
 
 ## Features
