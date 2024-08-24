@@ -27,7 +27,6 @@ A simple and intuitive web-based notes app.
     Open the `index.html` file in a web browser to start using the Notes App.
 
 ## Customization
-
 1. **Styling:**
     - Edit the `style.css` file to customize the appearance of the app.
 
