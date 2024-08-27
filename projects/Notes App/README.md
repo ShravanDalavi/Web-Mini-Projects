@@ -16,7 +16,6 @@ A simple and intuitive web-based notes app.
     ```sh
     git clone <repository-url>
     ```
-
 2. **Navigate to the Project Directory:**
     ```sh
     cd notes-app
