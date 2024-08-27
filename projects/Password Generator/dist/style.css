@@ -1,0 +1,96 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    color: #333;
+}
+
+.container {
+    background: #fff;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    max-width: 400px;
+    width: 100%;
+}
+
+h1 {
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #444;
+}
+
+.generator {
+    margin-bottom: 20px;
+}
+
+#password {
+    width: 100%;
+    padding: 15px;
+    font-size: 18px;
+    margin-bottom: 20px;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    background: #f9f9f9;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+    transition: border-color 0.3s;
+}
+
+#password:focus {
+    border-color: #764ba2;
+    outline: none;
+}
+
+button {
+    padding: 12px 30px;
+    font-size: 16px;
+    cursor: pointer;
+    background: #764ba2;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    transition: background 0.3s, transform 0.3s;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+button:hover {
+    background: #667eea;
+    transform: translateY(-2px);
+}
+
+.options {
+    text-align: left;
+}
+
+.options label {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+    font-size: 14px;
+}
+
+.options input[type="checkbox"] {
+    margin-right: 10px;
+    width: 18px;
+    height: 18px;
+}
+
+input[type="number"] {
+    width: 60px;
+    padding: 8px;
+    margin-left: 5px;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    background: #f9f9f9;
+    transition: border-color 0.3s;
+}
+
+input[type="number"]:focus {
+    border-color: #764ba2;
+    outline: none;
+}
