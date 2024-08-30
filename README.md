@@ -14,7 +14,6 @@ Here is a list of the projects included in this repository:
 |  **04** | [**Image Search**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Image%20Search)  | [Link](https://codepen.io/Shravan-Dalavi/pen/gONWMNe) | 
 |  **05** | [**Notes App**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Notes%20App)  | [Link]() | 
 
-
 ## How to Run
 To run these projects locally, follow these steps:
 
