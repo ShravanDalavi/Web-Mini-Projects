@@ -32,6 +32,7 @@ cd password-generator
    
 ## Customization
 To customize the design, edit the CSS in `style.css`.
+
 To change the password generation logic or add more functionalities, modify the JavaScript in `script.js`.
 
 ## File Structure
