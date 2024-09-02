@@ -36,5 +36,6 @@ To change the password generation logic or add more functionalities, modify the 
 
 ## File Structure
 `index.html`: The main HTML file containing the structure of the password generator interface.
+
 `style.css`: The CSS file for styling the password generator interface.
 `script.js`: The JavaScript file for handling the password generation logic and user interactions.
