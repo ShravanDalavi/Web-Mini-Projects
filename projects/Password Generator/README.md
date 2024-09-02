@@ -29,7 +29,7 @@ cd password-generator
    - Specify the length of the password
 3. Click the "Generate Password" button to create a secure password.
 4. Click the "Copy to Clipboard" button to copy the generated password.
-5. 
+   
 ## Customization
 To customize the design, edit the CSS in `style.css`.
 To change the password generation logic or add more functionalities, modify the JavaScript in `script.js`.
