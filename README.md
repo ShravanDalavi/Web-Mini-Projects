@@ -7,7 +7,6 @@ Welcome to the Web-Mini-Projects repository! This repository contains a collecti
 This repository is a collection of mini web projects built with HTML, CSS, and JavaScript. The projects include a digital clock, a countdown timer, a color palette picker, and more. These projects are ideal for beginners who want to practice and enhance their web development skills.
 
 ## Projects
-
 Here is a list of the projects included in this repository:
 
 | **No.** | **Name** |  **Demo** |
