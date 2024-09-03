@@ -27,7 +27,6 @@ To run these projects locally, follow these steps:
     ```
 
 2. Navigate to the project directory:
-
     ```bash
     cd Web-Mini-Projects/Project-Name
     ```
