@@ -28,7 +28,6 @@ To run these projects locally, follow these steps:
     ```bash
     cd Web-Mini-Projects/Project-Name
     ```
-
 3. Open the `index.html` file in your web browser to view and run the project.
 
 ## Technologies Used
