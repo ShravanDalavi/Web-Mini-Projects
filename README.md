@@ -18,7 +18,6 @@ Here is a list of the projects included in this repository:
 
 ## How to Run
 To run these projects locally, follow these steps:
-
 1. Clone the repository to your local machine:
     ```bash
     git clone https://github.com/yourusername/Web-Mini-Projects.git
