@@ -15,7 +15,6 @@ Here is a list of the projects included in this repository:
 |  **05** | [**Notes App**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Notes%20App)  | [Link](https://codepen.io/Shravan-Dalavi/pen/oNrWLKZ) | 
 |  **06** | [**Password Generator**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Password%20Generator)  | [Link](https://codepen.io/Shravan-Dalavi/pen/WNqjxVL) | 
 
-
 ## How to Run
 To run these projects locally, follow these steps:
 1. Clone the repository to your local machine:
