@@ -63,9 +63,10 @@ You can customize the application according to your needs:
 - **Add features:** Extend the functionality by adding more features like filtering transactions, exporting data, etc.
 
 ## File Structure
-
+```bash
 expense-tracker/
 │
 ├── index.html # The main HTML file
 ├── style.css # The CSS file for styling the application
 ├── script.js # The JavaScript file for the application logic
+```
