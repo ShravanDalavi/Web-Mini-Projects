@@ -15,6 +15,7 @@ Here is a list of the projects included in this repository:
 |  **04** | [**Image Search**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Image%20Search)  | [Link](https://codepen.io/Shravan-Dalavi/pen/gONWMNe) | 
 |  **05** | [**Notes App**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Notes%20App)  | [Link](https://codepen.io/Shravan-Dalavi/pen/oNrWLKZ) | 
 |  **06** | [**Password Generator**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Password%20Generator)  | [Link](https://codepen.io/Shravan-Dalavi/pen/WNqjxVL) | 
+|  **07** | [**Personal Finance Manager (Expense Tracker)**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Personal%20Finance%20Manager)  | [Link](https://codepen.io/Shravan-Dalavi/pen/WNqjxVL) | 
 
 ## How to Run
 To run these projects locally, follow these steps:
