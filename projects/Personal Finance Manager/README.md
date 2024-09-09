@@ -69,4 +69,3 @@ expense-tracker/
 ├── index.html # The main HTML file
 ├── style.css # The CSS file for styling the application
 ├── script.js # The JavaScript file for the application logic
-
