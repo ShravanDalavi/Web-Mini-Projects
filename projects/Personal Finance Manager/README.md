@@ -63,7 +63,7 @@ You can customize the application according to your needs:
 - **Add features:** Extend the functionality by adding more features like filtering transactions, exporting data, etc.
 
 ## File Structure
-```bash
+```s
 expense-tracker/
 │
 ├── index.html # The main HTML file
