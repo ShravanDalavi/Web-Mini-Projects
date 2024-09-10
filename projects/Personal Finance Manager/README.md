@@ -28,7 +28,6 @@ This is a simple web-based Personal Finance Manager application that helps you t
     ```sh
     cd expense-tracker
     ```
-
 3. **Open `index.html` in your web browser:**
 
     You can simply open the `index.html` file in your web browser to start using the application.
