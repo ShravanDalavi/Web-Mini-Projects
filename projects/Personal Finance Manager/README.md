@@ -22,7 +22,6 @@ This is a simple web-based Personal Finance Manager application that helps you t
     ```sh
     git clone https://github.com/yourusername/expense-tracker.git
     ```
-
 2. **Navigate to the project directory:**
 
     ```sh
