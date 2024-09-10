@@ -1,5 +1,4 @@
 # Personal Finance Manager (Expense Tracker)
-
 This is a simple web-based Personal Finance Manager application that helps you track your income and expenses. It allows you to add, view, and delete transactions, and it calculates the total amount based on the transactions.
 
 ## Features
