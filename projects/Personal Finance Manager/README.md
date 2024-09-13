@@ -16,6 +16,9 @@ This is a simple web-based Personal Finance Manager application that helps you t
 ## Demo
 [Link to demo](https://codepen.io/Shravan-Dalavi/pen/poXPPpr)
 
+![image](https://github.com/user-attachments/assets/5dc10e84-4c5b-4404-b027-7ac9845c6cea)
+
+
 ## Installation
 1. **Clone the repository:**
 
