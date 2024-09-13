@@ -32,7 +32,6 @@ This is a simple web-based Personal Finance Manager application that helps you t
     You can simply open the `index.html` file in your web browser to start using the application.
 
 ## Usage
-
 1. **Add a Transaction:**
 
     - Fill in the transaction name.
