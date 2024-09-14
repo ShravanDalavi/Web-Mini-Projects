@@ -9,7 +9,7 @@ A web application to generate secure passwords with customizable options such as
 - Specify the length of the password
 - Copy generated password to clipboard
 ## Demo
-[Link to demo](https://codepen.io/Shravan-Dalavi/pen/WNqjxVL).
+[Link to demo](https://codepen.io/Shravan-Dalavi/pen/WNqjxVL)
 
 ## Installation
 1. Clone the repository:
