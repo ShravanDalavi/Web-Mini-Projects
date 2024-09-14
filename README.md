@@ -40,7 +40,6 @@ To run these projects locally, follow these steps:
 
 ## Prerequisites
 Before running these projects, ensure you have the following installed on your machine:
-
 - A web browser (e.g., Chrome, Firefox, Safari)
 - A text editor or IDE (e.g., VS Code, Sublime Text)
 
