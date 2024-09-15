@@ -11,7 +11,6 @@ Responsive design.
 
 ![image](https://github.com/user-attachments/assets/51e4dd60-d6b7-4746-85ca-f1f5f7d8d9fa)
 
-
 ## Installation
 1. Clone the repository:
 ```bash
