@@ -1,0 +1,131 @@
+/* styles.css */
+/* Universal selector - Applies to whole document */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Arial, sans-serif';
+    color: #333;
+}
+
+/* Body style */
+body {
+    background: linear-gradient(135deg, #d4ff00cf,#9e7f01cc);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* Game container */
+.game {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+}
+
+/* Title of the game */
+.title {
+    font-size: 4rem;
+    z-index: 2;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+}
+
+/* Score Board */
+.score {
+    display: flex;
+    width: 60vw;
+    justify-content: space-around;
+    position: absolute;
+    top: 20px;
+    z-index: 1;
+}
+
+/* Score */
+.p-count, .c-count {
+    text-align: center;
+    font-size: 1.5rem;
+    margin-top: 1rem;
+    background: rgba(255, 255, 255, 0.2);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+/* Options container */
+.options {
+    display: flex;
+    width: 80vw;
+    justify-content: space-around;
+    margin-top: 2rem;
+}
+
+/* Styling on all buttons */
+.rock, .paper, .scissor, .reload {
+    padding: 1rem;
+    width: 120px;
+    border-radius: 10px;
+    background: #e74423;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    transition: background 0.3s, transform 0.3s;
+    color: white;
+    font-size: 1rem;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+/* Hover and active states for buttons */
+.rock:hover, .paper:hover, .scissor:hover, .reload:hover {
+    background: #ff0000;
+    transform: scale(1.05);
+}
+
+.rock:active, .paper:active, .scissor:active, .reload:active {
+    transform: scale(0.95);
+}
+
+/* Move text */
+.move {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-top: 1rem;
+}
+
+/* Result text */
+.result {
+    margin-top: 20px;
+    font-size: 1.5rem;
+    background: rgba(255, 255, 255, 0.2);
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+/* Reload button */
+.reload {
+    display: none;
+    margin-top: 2rem;
+    background: #f44336;
+}
+
+/* Responsive Design */
+@media screen and (max-width: 612px) { 
+    .title {
+        text-align: center;
+        font-size: 3rem;
+    }
+    .score {
+        position: absolute;
+        top: 100px;
+        width: 100vw;
+    }
+    .options {
+        width: 100vw;
+    }
+}
