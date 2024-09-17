@@ -8,7 +8,7 @@ A simple and interactive Rock Paper Scissors game where a player competes agains
 - **Score Tracking:** Keeps track of scores for both the player and the computer.
 - **Move Counter:** Limits the game to 10 moves per round.
 - **Game Result:** Displays the winner and allows the player to restart the game.
-- 
+  
 ## Demo
 [Link to demo](https://codepen.io/Shravan-Dalavi/pen/jOjoZyV).
 
