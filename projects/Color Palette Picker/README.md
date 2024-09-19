@@ -1,4 +1,5 @@
 # Color Palette Picker
+
 A web application that generates a color palette and allows users to pick and copy colors easily.
 
 ## Features
