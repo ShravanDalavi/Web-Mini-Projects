@@ -13,6 +13,7 @@ A web application that generates a color palette and allows users to pick and co
 ![image](https://github.com/user-attachments/assets/66d55a21-bd85-476c-aae0-dbaab83c536a)
 
 ## Installation
+
 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/color-palette-picker.git
