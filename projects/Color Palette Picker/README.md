@@ -32,6 +32,7 @@ cd color-palette-picker
 - To change the color generation logic or add more functionalities, modify the JavaScript in `script.js`.
   
 ## File Structure
+
 - `index.html`: The main HTML file containing the structure of the color palette picker.
 - `style.css`: The CSS file for styling the color palette picker interface.
 - `script.js`: The JavaScript file for handling the color generation logic and user interactions.
