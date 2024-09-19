@@ -14,7 +14,6 @@ A simple and interactive Rock Paper Scissors game where a player competes agains
 
 
 ## Installation
-
 To run this project locally, follow these steps:
 
 1. **Clone the repository:**
