@@ -21,6 +21,7 @@ cd color-palette-picker
 2. Open index.html in your preferred browser.
    
 ## Usage
+
 1. Open the index.html file.
 2. Browse through the color palette.
 3. Click on a color to copy its RGB value to the output field.
