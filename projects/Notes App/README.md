@@ -39,7 +39,6 @@ notes-app/
 ├── script.js
 └── style.css
 ```
-
 - **index.html:** The main HTML file that structures the app.
 - **script.js:** Contains the JavaScript code for adding, saving, and deleting notes.
 - **style.css:** Defines the styles for the app.
