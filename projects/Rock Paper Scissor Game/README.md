@@ -68,6 +68,7 @@ You can customize various parts of the game:
     - Update the result text in the `scripts.js` file inside the `winner` and `gameOver` functions to personalize the game messages.
 
 ## File Structure
+
 ```sh
 rock-paper-scissors/ 
 │ 
