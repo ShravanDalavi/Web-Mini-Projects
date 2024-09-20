@@ -1,5 +1,6 @@
 # Notes App
 A simple and intuitive web-based notes app.
+
 ## Features
 - Add Notes: Easily create new notes with a title and content.
 - Save Notes: Save your notes to local storage for persistent access.
