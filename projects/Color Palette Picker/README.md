@@ -9,7 +9,6 @@ A web application that generates a color palette and allows users to pick and co
 - Responsive design for different screen sizes.
   
 ## Demo
-
 [Link to demo](https://codepen.io/Shravan-Dalavi/pen/bGPqXVz)
 <br>
 
