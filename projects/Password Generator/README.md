@@ -8,6 +8,7 @@ A web application to generate secure passwords with customizable options such as
 - Include symbols
 - Specify the length of the password
 - Copy generated password to clipboard
+  
 ## Demo
 [Link to demo](https://codepen.io/Shravan-Dalavi/pen/WNqjxVL)
 
