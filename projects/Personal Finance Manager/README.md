@@ -48,7 +48,6 @@ This is a simple web-based Personal Finance Manager application that helps you t
     - The total amount will be updated and displayed in INR.
 
 3. **Delete a Transaction:**
-
     - Click on the "Delete" button next to a transaction to remove it from the list.
 
 ## Customization
