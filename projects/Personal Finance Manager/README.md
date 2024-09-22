@@ -44,7 +44,6 @@ This is a simple web-based Personal Finance Manager application that helps you t
     - Click the "Add Expense" button to add the transaction.
 
 2. **View Transactions:**
-
     - All transactions will be displayed in a table below the form.
     - The total amount will be updated and displayed in INR.
 
