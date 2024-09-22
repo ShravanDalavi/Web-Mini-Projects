@@ -51,6 +51,7 @@ This is a simple web-based Personal Finance Manager application that helps you t
     - Click on the "Delete" button next to a transaction to remove it from the list.
 
 ## Customization
+
 You can customize the application according to your needs:
 
 - **Add more currencies:** Edit the `currency` dropdown in `index.html` to include more currencies.
