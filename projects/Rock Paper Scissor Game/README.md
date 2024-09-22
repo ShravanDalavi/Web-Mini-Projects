@@ -42,7 +42,6 @@ To run this project locally, follow these steps:
 5. Click the **Restart** button to play again.
 
 ## Customization
-
 You can customize various parts of the game:
 
 1. **Change the number of moves:** 
