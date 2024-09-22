@@ -25,7 +25,7 @@ cd digital-clock
 1. Open the `index.html` file.
 2. Select the desired time zone from the dropdown menu.
 3. Choose the preferred time format (12-hour or 24-hour) from the dropdown menu.
-4. 
+   
 ## Customization
 - To add more time zones, edit the <select> element in `index.html` and add more <option> elements with the desired time zones.
 - To customize the design, edit the CSS in `style.css`.
