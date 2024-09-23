@@ -10,7 +10,8 @@ A simple and interactive Rock Paper Scissors game where a player competes agains
   
 ## Demo
 [Link to demo](https://codepen.io/Shravan-Dalavi/pen/jOjoZyV)
-<br>
+
+
 ![image](https://github.com/user-attachments/assets/1c069b40-31ee-4e06-9247-cbb6243cef21)
 
 
