@@ -10,8 +10,8 @@ A simple digital clock that displays the current time based on the selected time
 ## Demo
 [Link to demo](https://codepen.io/Shravan-Dalavi/pen/vYqxoGR)
 
-![image](https://github.com/user-attachments/assets/915e2307-d1c9-4b1e-8823-224264faeba1)
 
+![image](https://github.com/user-attachments/assets/915e2307-d1c9-4b1e-8823-224264faeba1)
 
 ## Installation
 1. Clone the repository:
