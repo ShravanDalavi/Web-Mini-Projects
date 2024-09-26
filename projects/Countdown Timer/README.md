@@ -22,6 +22,7 @@ cd countdown-timer
 2. Open `index.html` in your preferred browser.
 
 ## Usage
+
 1. Open the `index.html` file.
 2. Set the desired duration for the countdown in the JavaScript file.
 3. Customize the end message and design as needed.
