@@ -1,5 +1,4 @@
 # Countdown Timer
-
 A simple and customizable countdown timer built with HTML, CSS, and JavaScript.
 
 ## Features
