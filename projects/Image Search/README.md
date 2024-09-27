@@ -7,6 +7,7 @@ Display images in a grid layout.
 Responsive design.
 
 ## Demo
+
 [Link to demo](https://codepen.io/Shravan-Dalavi/pen/gONWMNe)
 
 
