@@ -50,8 +50,9 @@ For certain projects that may involve additional tooling, follow any specific in
 ## How can I read this tutorial without an Internet connection? <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" />
 1. Go [**`here`**](https://github.com/ShravanDalavi/Web-Mini-Projects) and click the big green ➞  **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**](https://github.com/shravandalavi/Web-Mini-Projects/archive/refs/heads/main.zip).
 
+![image](https://github.com/user-attachments/assets/864a8d4e-dc4f-43c5-a1b6-cc58503b2981)
 
-  
+
 2. Extract the ZIP and open it. Unfortunately I don't have any more specific instructions because how exactly this is done depends on which operating system you run.    
 3. Launch ipython notebook from the folder which contains the notebooks. Open each one of them
   
