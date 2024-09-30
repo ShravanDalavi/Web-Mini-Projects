@@ -8,7 +8,7 @@ A web application that generates a color palette and allows users to pick and co
   
 ## Demo
 [Link to demo](https://codepen.io/Shravan-Dalavi/pen/bGPqXVz)
-<br>
+
 
 ![image](https://github.com/user-attachments/assets/66d55a21-bd85-476c-aae0-dbaab83c536a)
 
