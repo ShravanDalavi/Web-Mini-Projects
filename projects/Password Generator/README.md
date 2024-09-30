@@ -12,7 +12,6 @@ A web application to generate secure passwords with customizable options such as
 ## Demo
 [Link to demo](https://codepen.io/Shravan-Dalavi/pen/WNqjxVL)
 
-
 ![image](https://github.com/user-attachments/assets/34875ed2-46ad-4d1c-bec9-ace6c68a371c)
 
 ## Installation
