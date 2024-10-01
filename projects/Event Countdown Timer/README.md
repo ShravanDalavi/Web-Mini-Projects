@@ -14,6 +14,9 @@ A simple web-based countdown timer that allows users to add events and track the
 
 [Link to demo](https://codepen.io/Shravan-Dalavi/pen/xxovaxK)
 
+
+![image](https://github.com/user-attachments/assets/c0366035-45a7-426b-863f-0b5eaa393096)
+
 ## Installation
 
 1. Clone the repository:
