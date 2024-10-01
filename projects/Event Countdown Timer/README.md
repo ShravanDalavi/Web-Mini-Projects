@@ -11,7 +11,6 @@ A simple web-based countdown timer that allows users to add events and track the
 - **Alarm Sound**: Plays an alarm when the event time is reached.
 
 ## Demo
-
 [Link to demo](https://codepen.io/Shravan-Dalavi/pen/xxovaxK)
 
 
