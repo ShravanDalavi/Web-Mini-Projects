@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Event Countdown Timer</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="container">
+    <h1>Event Countdown Timer</h1>
+    
+    <form id="event-form">
+      <label for="event-name">Event Name:</label>
+      <input type="text" id="event-name" required>
+      
+      <label for="event-date">Event Date:</label>
+      <input type="datetime-local" id="event-date" required>
+      
+      <label for="time-zone">Time Zone:</label>
+      <select id="time-zone">
+        <option value="UTC" selected>UTC</option>
+        <option value="America/New_York">New York (EST)</option>
+        <option value="Europe/London">London (GMT)</option>
+        <option value="Asia/Kolkata">India (IST)</option>
+        <option value="Asia/Tokyo">Tokyo (JST)</option>
+      </select>
+      
+      <label for="background-theme">Background Color:</label>
+      <input type="color" id="background-theme" value="#f3f3f3">
+      
+      <button type="submit">Add Event</button>
+    </form>
+    
+    <div id="countdown-container"></div>
+  </div>
+
+  <!-- Audio for sound alert -->
+  <audio id="alarm-sound" src="alarm.mp3" preload="auto"></audio>
+
+  <script src="script.js"></script>
+</body>
+</html>
