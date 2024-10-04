@@ -19,6 +19,7 @@ Here is a list of the projects included in this repository:
 |  **08** | [**Personal Finance Manager (Expense Tracker)**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Personal%20Finance%20Manager)  | [Link](https://codepen.io/Shravan-Dalavi/pen/poXPPpr) | 
 |  **09** | [**Rock Paper Scissors Game**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Rock%20Paper%20Scissor%20Game)  | [Link](https://codepen.io/Shravan-Dalavi/pen/jOjoZyV) | 
 
+
 ## How to Run
 To run these projects locally, follow these steps:
 1. Clone the repository to your local machine:
