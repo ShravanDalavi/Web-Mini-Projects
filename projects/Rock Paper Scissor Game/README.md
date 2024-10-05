@@ -14,7 +14,6 @@ A simple and interactive Rock Paper Scissors game where a player competes agains
 
 ![image](https://github.com/user-attachments/assets/1c069b40-31ee-4e06-9247-cbb6243cef21)
 
-
 ## Installation
 To run this project locally, follow these steps:
 
