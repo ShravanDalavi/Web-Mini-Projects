@@ -1,6 +1,5 @@
 # Rock Paper Scissors Game
 A simple and interactive Rock Paper Scissors game where a player competes against the computer. The game provides a fun way to experience this classic hand game through a web-based interface.
-
 ## Features
 - **Interactive Gameplay:** Player vs. computer with real-time scoring.
 - **Responsive Design:** Optimized for both desktop and mobile devices.
