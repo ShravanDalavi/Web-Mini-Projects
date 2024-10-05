@@ -2,6 +2,7 @@
 This is a simple web-based Personal Finance Manager application that helps you track your income and expenses. It allows you to add, view, and delete transactions, and it calculates the total amount based on the transactions.
 
 ## Features
+
 - **Add Transactions**: Easily add income or expense transactions with the following details:
   - **Name**: Description of the transaction.
   - **Amount**: The monetary value of the transaction.
