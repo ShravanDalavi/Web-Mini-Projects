@@ -1,0 +1,203 @@
+/* General Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+}
+
+body {
+    background-color: #f4f4f9; /* Light background for readability */
+    color: #333;
+    font-size: 16px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+/* Title */
+h1 {
+    text-align: center;
+    color: #2c3e50; /* Deep blue for contrast */
+    margin-bottom: 30px;
+    font-size: 2.5rem;
+    letter-spacing: 2px;
+}
+
+/* Form Styles */
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+/* Labels */
+label {
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #34495e;
+}
+
+/* Input Fields */
+input[type="date"],
+input[type="text"],
+select,
+textarea {
+    padding: 10px;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100%;
+    transition: all 0.3s ease;
+}
+
+input[type="date"]:focus,
+input[type="text"]:focus,
+select:focus,
+textarea:focus {
+    border-color: #3498db; /* Blue border on focus */
+    outline: none;
+    box-shadow: 0 0 8px rgba(52, 152, 219, 0.3); /* Soft glow on focus */
+}
+
+/* Textarea Styles */
+textarea {
+    resize: none; /* Prevent resizing */
+}
+
+/* Button Styles */
+button {
+    background-color: #2ecc71; /* Green background */
+    color: white;
+    font-size: 1.1rem;
+    font-weight: bold;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+button:hover {
+    background-color: #27ae60; /* Darker green on hover */
+    transform: translateY(-2px); /* Slight lift on hover */
+}
+
+button:active {
+    transform: translateY(0); /* Reset on click */
+}
+
+/* Journal Entries Section */
+#journalEntries {
+    margin-top: 40px;
+}
+
+.journal-entry {
+    background-color: #ecf0f1; /* Light gray background for entries */
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.journal-entry h3 {
+    margin-bottom: 10px;
+    color: #2980b9; /* Blue for the entry title */
+}
+
+.journal-entry p {
+    margin-bottom: 8px;
+    font-size: 1rem;
+    color: #2c3e50;
+}
+
+/* Sentiment Analysis Section */
+#sentimentResult {
+    font-size: 1.1rem;
+    font-weight: bold;
+    margin-top: 20px;
+    color: #e67e22; /* Orange for sentiment result */
+    text-align: center;
+}
+
+/* Tags Styling */
+.journal-entry p strong {
+    color: #3498db;
+}
+
+.journal-entry p {
+    font-style: italic; /* Italicize the tags */
+}
+
+/* Media Query for Mobile Responsiveness */
+@media (max-width: 768px) {
+    .container {
+        margin: 20px;
+        padding: 15px;
+    }
+
+    h1 {
+        font-size: 2rem;
+    }
+
+    button {
+        font-size: 1rem;
+        padding: 10px;
+    }
+}
+
+/* Button Styles */
+button {
+    font-size: 1.1rem;
+    font-weight: bold;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+/* General Button Hover Effect */
+button:hover {
+    transform: translateY(-2px); /* Slight lift on hover */
+}
+
+button:active {
+    transform: translateY(0); /* Reset on click */
+}
+
+/* Save Button (Green) */
+button[type="button"] {
+    background-color: #2ecc71; /* Green background */
+    color: white;
+}
+
+button[type="button"]:hover {
+    background-color: #27ae60; /* Darker green on hover */
+}
+
+/* Delete Button (Red) */
+button.delete {
+    background-color: #e74c3c; /* Red background */
+    color: white;
+}
+
+button.delete:hover {
+    background-color: #c0392b; /* Darker red on hover */
+}
+
+/* Edit Button (Yellow) */
+button.edit {
+    background-color: #f39c12; /* Yellow background */
+    color: white;
+}
+
+button.edit:hover {
+    background-color: #e67e22; /* Darker yellow on hover */
+}

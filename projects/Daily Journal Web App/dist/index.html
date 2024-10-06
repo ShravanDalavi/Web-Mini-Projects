@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Daily Journal Web App</title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Journal</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  
+    <div class="container">
+        <h1>Daily Journal</h1>
+        <form id="journalForm">
+            <label for="entryDate">Date:</label>
+            <input type="date" id="entryDate" required>
+
+            <label for="mood">Mood:</label>
+            <select id="mood" required>
+                <option value="">Select mood</option>
+                <option value="happy">Happy 😊</option>
+                <option value="sad">Sad 😢</option>
+                <option value="neutral">Neutral 😐</option>
+                <option value="angry">Angry 😡</option>
+                <option value="excited">Excited 🤩</option>
+            </select>
+
+          <!-- Add a field for Tags in the form -->
+<label for="tags">Tags:</label>
+<input type="text" id="tags" placeholder="Add tags (comma-separated)">
+
+          
+            <label for="entryText">Journal Entry:</label>
+            <textarea id="entryText" rows="5" required></textarea>
+
+            <button type="button" onclick="saveEntry()">Save Entry</button>
+        </form>
+      
+      
+        <div id="sentimentResult"></div>
+        <div id="journalEntries"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+<!-- partial -->
+  <script  src="./script.js"></script>
+
+</body>
+</html>
