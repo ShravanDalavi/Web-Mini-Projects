@@ -1,4 +1,5 @@
 # Daily Journal Web App
+
 A simple web-based journal application that allows users to record their daily thoughts, moods, and tag entries for easy categorization. The app also analyzes the sentiment of each journal entry based on predefined positive and negative words.
 
 ## Features
