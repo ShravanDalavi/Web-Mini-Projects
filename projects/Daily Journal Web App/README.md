@@ -2,7 +2,6 @@
 A simple web-based journal application that allows users to record their daily thoughts, moods, and tag entries for easy categorization. The app also analyzes the sentiment of each journal entry based on predefined positive and negative words.
 
 ## Features
-
 - Add Journal Entries: Users can enter their journal entries along with a date, mood, and tags.
 - Sentiment Analysis: Automatically evaluates the sentiment (positive, negative, or neutral) of each entry based on the text.
 - Edit and Delete Entries: Users can edit or delete their existing journal entries.
