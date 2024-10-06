@@ -11,6 +11,7 @@ A simple web-based journal application that allows users to record their daily t
 - Responsive Design: Fully responsive and optimized for mobile and desktop views.
 
 ## Demo
+
 [Link to demo](https://codepen.io/Shravan-Dalavi/pen/XWvbezL)
 
 ## Installation
