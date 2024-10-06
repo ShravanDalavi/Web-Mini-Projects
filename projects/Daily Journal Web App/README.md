@@ -40,7 +40,6 @@ git clone https://github.com/your-username/daily-journal-app.git
 
 ## Customization
 To customize the app:
-
 - Modify the CSS file (`style.css`) to change the look and feel of the app.
 - Add or update the sentiment analysis logic in `script.js` to include more words or different sentiment rules.
 - Modify the HTML structure in `index.html` to add more fields or alter the layout.
