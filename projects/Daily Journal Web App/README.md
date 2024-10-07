@@ -12,6 +12,10 @@ A simple web-based journal application that allows users to record their daily t
 
 [Link to demo](https://codepen.io/Shravan-Dalavi/pen/XWvbezL)
 
+
+![image](https://github.com/user-attachments/assets/c03cec13-0bbc-4afd-854c-57c62b232902)
+
+
 ## Installation
 1. Clone the repository to your local machine:
 ```bash 
