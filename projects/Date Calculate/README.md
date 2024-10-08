@@ -7,6 +7,7 @@ A simple web application that calculates the difference between two dates, provi
 - **Responsive Design**: Works seamlessly on various screen sizes, including mobile devices.
 
 ## Demo
+
 [Link to demo](https://codepen.io/Shravan-Dalavi/pen/yLmNemE)
 
 
