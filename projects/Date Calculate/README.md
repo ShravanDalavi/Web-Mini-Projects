@@ -1,5 +1,4 @@
 # Date Difference Calculator
-
 A simple web application that calculates the difference between two dates, providing the result in terms of years, months, and days.
 
 ## Features
