@@ -2,7 +2,6 @@
 A simple web application that calculates the difference between two dates, providing the result in terms of years, months, and days.
 
 ## Features
-
 - **Date Difference Calculation**: Calculate the difference between two dates in terms of years, months, and days.
 - **Interactive User Interface**: Input fields for selecting start and end dates with a clear display of results.
 - **Responsive Design**: Works seamlessly on various screen sizes, including mobile devices.
