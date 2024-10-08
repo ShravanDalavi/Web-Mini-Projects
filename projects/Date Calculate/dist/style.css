@@ -1,0 +1,115 @@
+/* General body styling */
+body {
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(135deg, #f8f9fa 0%, #dfe4ea 100%);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: #333;
+    box-sizing: border-box;
+}
+
+/* Container for form and result */
+.container {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1), 0 5px 15px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    width: 100%;
+    box-sizing: border-box;
+    text-align: center;
+    transition: all 0.3s ease;
+}
+
+.container:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15), 0 7px 20px rgba(0, 0, 0, 0.15);
+}
+
+/* Heading */
+h1 {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 20px;
+    color: #34495e;
+    transition: color 0.3s ease;
+}
+
+h1:hover {
+    color: #2ecc71;
+}
+
+/* Form styling */
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+label {
+    font-size: 1rem;
+    color: #555;
+    text-align: left;
+    margin-bottom: 5px;
+    font-weight: 500;
+}
+
+input[type="date"] {
+    padding: 12px;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    font-size: 1rem;
+    background-color: #f8f9fa;
+    transition: all 0.3s ease;
+}
+
+input[type="date"]:focus {
+    outline: none;
+    border-color: #3498db;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(52, 152, 219, 0.2);
+}
+
+/* Button styling */
+button {
+    padding: 12px;
+    background-color: #2ecc71;
+    color: white;
+    font-size: 1rem;
+    font-weight: bold;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+button:hover {
+    background-color: #27ae60;
+    transform: scale(1.05);
+}
+
+button:active {
+    transform: scale(0.98);
+}
+
+/* Result section */
+#result {
+    margin-top: 20px;
+    font-size: 1.2rem;
+    color: #34495e;
+    font-weight: 500;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: #f8f9fa;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+#result:hover {
+    transform: translateY(-2px);
+    background-color: #ecf0f1;
+}
