@@ -14,12 +14,12 @@ Here is a list of the projects included in this repository:
 |  **03** | [**Daily Journal Web App**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Daily%20Journal%20Web%20App)  | [Link](https://codepen.io/Shravan-Dalavi/pen/XWvbezL) |
 |  **04** | [**Date Difference Calculator**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Date%20Calculate)  | [Link]() | 
 |  **05** | [**Digital Clock**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Digital%20Clock)  | [Link](https://codepen.io/Shravan-Dalavi/pen/vYqxoGR) | 
-|  **05** | [**Event Countdown Timer**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Event%20Countdown%20Timer)  | [Link](https://codepen.io/Shravan-Dalavi/pen/xxovaxK)| 
-|  **06** | [**Image Search**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Image%20Search)  | [Link](https://codepen.io/Shravan-Dalavi/pen/gONWMNe) | 
-|  **07** | [**Notes App**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Notes%20App)  | [Link](https://codepen.io/Shravan-Dalavi/pen/oNrWLKZ) | 
-|  **08** | [**Password Generator**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Password%20Generator)  | [Link](https://codepen.io/Shravan-Dalavi/pen/WNqjxVL) | 
-|  **09** | [**Personal Finance Manager (Expense Tracker)**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Personal%20Finance%20Manager)  | [Link](https://codepen.io/Shravan-Dalavi/pen/poXPPpr) | 
-|  **10** | [**Rock Paper Scissors Game**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Rock%20Paper%20Scissor%20Game)  | [Link](https://codepen.io/Shravan-Dalavi/pen/jOjoZyV) | 
+|  **06** | [**Event Countdown Timer**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Event%20Countdown%20Timer)  | [Link](https://codepen.io/Shravan-Dalavi/pen/xxovaxK)| 
+|  **07** | [**Image Search**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Image%20Search)  | [Link](https://codepen.io/Shravan-Dalavi/pen/gONWMNe) | 
+|  **08** | [**Notes App**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Notes%20App)  | [Link](https://codepen.io/Shravan-Dalavi/pen/oNrWLKZ) | 
+|  **09** | [**Password Generator**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Password%20Generator)  | [Link](https://codepen.io/Shravan-Dalavi/pen/WNqjxVL) | 
+|  **10** | [**Personal Finance Manager (Expense Tracker)**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Personal%20Finance%20Manager)  | [Link](https://codepen.io/Shravan-Dalavi/pen/poXPPpr) | 
+|  **11** | [**Rock Paper Scissors Game**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Rock%20Paper%20Scissor%20Game)  | [Link](https://codepen.io/Shravan-Dalavi/pen/jOjoZyV) | 
 
 
 
