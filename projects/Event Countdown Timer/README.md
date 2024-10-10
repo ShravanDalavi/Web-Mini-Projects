@@ -1,5 +1,4 @@
 # Event Countdown Timer
-
 A simple web-based countdown timer that allows users to add events and track the time remaining until the event starts. Includes customization options such as time zone selection and background color.
 
 ## Features
