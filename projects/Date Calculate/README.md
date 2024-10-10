@@ -11,6 +11,9 @@ A simple web application that calculates the difference between two dates, provi
 [Link to demo](https://codepen.io/Shravan-Dalavi/pen/yLmNemE)
 
 
+![image](https://github.com/user-attachments/assets/32c11393-1931-4030-aab4-ac5ac8c9c5ef)
+
+
 ## Installation
 
 1. Clone the repository:
