@@ -2,7 +2,6 @@
 A simple web-based countdown timer that allows users to add events and track the time remaining until the event starts. Includes customization options such as time zone selection and background color.
 
 ## Features
-
 - **Event Countdown**: Tracks the time remaining for upcoming events.
 - **Time Zone Support**: Adjusts event time according to the selected time zone.
 - **Background Color Customization**: Users can choose a background color for each event.
