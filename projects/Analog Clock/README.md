@@ -13,6 +13,13 @@ This project is a web-based Analog Clock that displays the current time and date
 ## Demo
 [Link to demo](https://4nz2kd.csb.app/)
 
+Light-mode
+![image](https://github.com/user-attachments/assets/cbbbcb4d-3047-46ba-9a15-c4dac88a6c12)
+
+Dark-mode
+![image](https://github.com/user-attachments/assets/32ddbbb7-dbb7-4323-93d1-bafc290de02b)
+
+
 ## Installation
 
 1. Clone the repository to your local machine:
