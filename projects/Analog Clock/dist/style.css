@@ -1,0 +1,162 @@
+/* Reset and Basic Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+/* Light and Dark Theme Styles */
+body.light-mode {
+    background: linear-gradient(135deg, #ffeaa7, #74b9ff); /* Soft yellow to blue gradient */
+    color: #000;
+}
+
+body.dark-mode {
+    background: linear-gradient(135deg, #2c3e50, #8e44ad); /* Deep blue to vibrant purple */
+    color: #fff;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    transition: background 0.5s, color 0.5s;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+}
+
+/* Clock Styles */
+.clock {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    background: radial-gradient(circle, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0));
+    border: 5px solid rgba(255, 255, 255, 0.3);
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    transition: background 0.5s, border 0.5s;
+}
+
+.clock span {
+    position: absolute;
+    transform: rotate(calc(30deg * var(--i)));
+    inset: 12px;
+    text-align: center;
+}
+
+.clock span b {
+    transform: rotate(calc(-30deg * var(--i)));
+    display: inline-block;
+    font-size: 20px;
+    color: #e84393; /* Bright pink for numbers */
+}
+
+.clock::before {
+    content: '';
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: #e84393;
+    z-index: 2;
+}
+
+/* Clock Hands */
+.hand {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    transition: transform 0.5s cubic-bezier(0.4, 2.3, 0.3, 1);
+}
+
+.hand i {
+    position: absolute;
+    background-color: var(--clr);
+    width: 6px;
+    height: var(--h);
+    border-radius: 8px;
+    box-shadow: 0 0 10px var(--clr);
+}
+
+/* Custom Colors for Hand Themes */
+#hour {
+    --clr: #e17055; /* Vibrant orange for the hour hand */
+}
+
+#min {
+    --clr: #00b894; /* Bright teal for the minute hand */
+}
+
+#sec {
+    --clr: #0984e3; /* Electric blue for the second hand */
+}
+
+/* Date Display Styling */
+.date-display {
+    margin-top: 20px;
+    font-size: 18px;
+    background-color: rgba(255, 255, 255, 0.2);
+    padding: 8px 16px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.5);
+    transition: background 0.5s;
+}
+
+body.light-mode .date-display {
+    background-color: rgba(0, 0, 0, 0.1);
+    color: #000;
+}
+
+/* Toggle Button Styling */
+.toggle-container {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+#theme-toggle {
+    display: none;
+}
+
+.toggle-label {
+    cursor: pointer;
+    background: #d63031; /* Vibrant red for the button */
+    border-radius: 20px;
+    padding: 5px 15px;
+    color: #fff;
+    user-select: none;
+    transition: background 0.3s;
+}
+
+body.light-mode .toggle-label {
+    background: #ff7675; /* Light red for light mode */
+    color: #333;
+}
+
+/* Vibrant Colors for Light Mode */
+body.light-mode .clock {
+    background: radial-gradient(circle, rgba(255, 255, 255, 0.3), rgba(0, 0, 0, 0.05));
+    border: 5px solid rgba(0, 0, 0, 0.2);
+}
+
+body.light-mode .clock::before {
+    background-color: #6c5ce7; /* Purple for the clock center in light mode */
+}
+
+body.light-mode .clock span b {
+    color: #0984e3; /* Blue for numbers in light mode */
+}
+
+body.light-mode .hand i {
+    box-shadow: 0 0 10px var(--clr);
+}
