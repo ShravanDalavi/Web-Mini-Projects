@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Multi-Step Form</title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multi-Step Form</title>
+    
+</head>
+<body>
+    <div class="container">
+        <div class="progress-bar">
+            <div class="step-circle active">1</div>
+            <div class="step-circle">2</div>
+            <div class="step-circle">3</div>
+        </div>
+        <form id="multiStepForm">
+            <!-- Step 1 -->
+            <div class="step active" id="step1">
+                <h2>Step One</h2>
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+            </div>
+            <!-- Step 2 -->
+            <div class="step" id="step2">
+                <h2>Step Two</h2>
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+            </div>
+            <!-- Step 3 -->
+            <div class="step" id="step3">
+                <h2>Step Three</h2>
+                <label for="age">Age:</label>
+                <input type="number" id="age" name="age" required>
+            </div>
+            <!-- Step Navigation Buttons -->
+            <div class="step-buttons">
+                <button type="button" class="prev" onclick="prevStep()" disabled>Previous</button>
+                <button type="button" class="next" onclick="nextStep()">Next</button>
+                <button type="submit" class="submit" style="display: none;">Submit</button>
+            </div>
+        </form>
+    </div>
+
+    <script  src="./script.js"></script>
+</body>
+</html>
+<!-- partial -->
+  <script  src="./script.js"></script>
+
+</body>
+</html>
