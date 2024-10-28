@@ -1,5 +1,4 @@
 # Multi-Step Form
-
 This project is a simple Multi-Step Form built using HTML, CSS, and JavaScript. It is designed to guide users through multiple steps in a form, where each step contains different input fields.
 
 ## Features
