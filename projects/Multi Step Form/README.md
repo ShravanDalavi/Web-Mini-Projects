@@ -13,6 +13,9 @@ This project is a simple Multi-Step Form built using HTML, CSS, and JavaScript. 
 
 You can view a live demo of the Multi-Step Form here : [Demo URL](https://7wn8dp.csb.app/)
 
+![image](https://github.com/user-attachments/assets/ce7b7011-2a32-4d14-9cb8-e8edd1822547)
+
+
 ## Installation
 
 1. Clone the repository to your local machine:
