@@ -4,7 +4,6 @@
 This project is a web-based Analog Clock that displays the current time and date. It includes a dark mode toggle to switch between light and dark themes, with vibrant colors for both modes. The clock updates every second and visually displays the hour, minute, and second hands, along with the current date.
 
 ## Features
-
 - Analog Clock: Displays current time with hour, minute, and second hands.
 - Date Display: Shows the current date in a formatted style.
 - Dark Mode: Allows users to toggle between light and dark themes.
