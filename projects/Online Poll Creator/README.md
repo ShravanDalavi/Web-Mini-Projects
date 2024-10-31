@@ -11,7 +11,7 @@ A simple web application that allows users to create online polls with customiza
 - Auto-refresh poll results every 3 seconds.
 ## Demo
 
-[Link to demo](https://codepen.io/Shravan-Dalavi/pen/mdNbXdX)
+[Link to demo]()
 
 ## Installation
 
