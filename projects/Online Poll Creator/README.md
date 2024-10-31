@@ -37,6 +37,7 @@ cd online-poll-creator
 
 ## Customization
 - Styling: Modify the CSS in `style.css` to customize the appearance of the poll creator.
+  
 - Poll Features: The poll logic is located in `script.js`. You can extend or modify the poll features, such as adding more advanced voting systems or restricting the number of votes per user.
 
 ## File Structure
