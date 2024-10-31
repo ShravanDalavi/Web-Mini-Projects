@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Online Poll Creator</title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Online Poll Creator</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="container">
+    <h1>Online Poll Creator</h1>
+    
+    <form id="poll-form">
+      <label for="poll-question">Poll Question:</label>
+      <input type="text" id="poll-question" required>
+
+      <div id="poll-options">
+        <label for="poll-option-1">Option 1:</label>
+        <input type="text" id="poll-option-1" required>
+
+        <label for="poll-option-2">Option 2:</label>
+        <input type="text" id="poll-option-2" required>
+      </div>
+
+      <button type="button" id="add-option-btn">Add Another Option</button>
+      <button type="submit">Create Poll</button>
+    </form>
+
+    <div id="poll-container"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
+<!-- partial -->
+  <script  src="./script.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,78 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 350px;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin: 10px 0 5px;
+}
+
+input[type="text"] {
+  width: calc(100% - 20px);
+  padding: 8px;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+#poll-container {
+  margin-top: 30px;
+}
+
+.poll-results {
+  margin-top: 20px;
+  text-align: left;
+}
+
+.poll-results p {
+  font-size: 14px;
+  margin: 5px 0;
+}
+
+.poll-results .bar {
+  width: 0%;
+  background-color: #007bff;
+  height: 20px;
+  border-radius: 3px;
+  transition: width 0.5s;
+}
+
+.poll-results .bar-container {
+  background-color: #e0e0e0;
+  height: 20px;
+  border-radius: 3px;
+  margin-bottom: 10px;
+  overflow: hidden;
+}
