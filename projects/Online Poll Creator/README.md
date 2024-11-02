@@ -9,6 +9,7 @@ A simple web application that allows users to create online polls with customiza
 - Option to add more poll options dynamically.
 - Ability to delete the current poll.
 - Auto-refresh poll results every 3 seconds.
+  
 ## Demo
 
 [Link to demo](https://lzm79s.csb.app/)
