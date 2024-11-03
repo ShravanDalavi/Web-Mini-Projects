@@ -14,6 +14,9 @@ A simple web application that allows users to create online polls with customiza
 
 [Link to demo](https://lzm79s.csb.app/)
 
+![image](https://github.com/user-attachments/assets/5ae98dce-6a2c-40f6-9a0a-6af93c4d1779)
+
+
 ## Installation
 
 1. Clone the repository:
