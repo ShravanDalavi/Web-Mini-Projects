@@ -1,5 +1,4 @@
 # Web-Mini-Projects
-
 Welcome to the Web-Mini-Projects repository! This repository contains a collection of small web-based projects designed to improve your web development skills. Each project focuses on a specific functionality and uses various web technologies.
 
 ## Introduction
