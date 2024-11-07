@@ -14,8 +14,7 @@ A simple and interactive Ticket Management System that allows users to book tick
 
 [Link to demo](https://2jt5ft.csb.app/)
 
-![image](https://github.com/user-attachments/assets/2c0e6037-7dbe-4bd1-abda-82b2257b07b5)
-
+![image](https://github.com/user-attachments/assets/5b0f9c03-8b89-4201-bf63-dd6a206b5ed8)
 
 ## Installation
 
