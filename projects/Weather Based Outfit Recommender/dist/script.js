@@ -1,5 +1,5 @@
 // Add your OpenWeather API key here
-const apiKey = '';
+const apiKey = 'OpenWeather API key here';
 
 // Get user's location and fetch weather data
 function getWeather() {
