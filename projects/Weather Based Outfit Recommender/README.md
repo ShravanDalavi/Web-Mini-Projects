@@ -11,6 +11,8 @@ A simple web application that recommends outfits based on the current weather co
 ## Demo
 [Link to demo](https://fhrwcx.csb.app/)
 
+![image](https://github.com/user-attachments/assets/32928106-13d6-4659-8b1d-b5a6362fb999)
+
 
 ## Installation
 
