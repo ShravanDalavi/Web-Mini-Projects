@@ -26,6 +26,7 @@ Here is a list of the projects included in this repository:
 |  **13** | [**Personal Finance Manager (Expense Tracker)**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Personal%20Finance%20Manager)  | [Link](https://codepen.io/Shravan-Dalavi/pen/poXPPpr) | 
 |  **14** | [**Rock Paper Scissors Game**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Rock%20Paper%20Scissor%20Game)  | [Link](https://codepen.io/Shravan-Dalavi/pen/jOjoZyV) | 
 |  **15** | [**Ticket Management System**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Ticket%20Management)  | [Link](https://2jt5ft.csb.app/) | 
+|  **16** | [**Weather-Based Outfit Recommender**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Weather%20Based%20Outfit%20Recommender)  | [Link](https://2jt5ft.csb.app/) |
 
 ## How to Run
 To run these projects locally, follow these steps :
