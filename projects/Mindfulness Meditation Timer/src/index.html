@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Mindfulness Meditation Timer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>Mindfulness Meditation Timer</h1>
+
+        <!-- Timer and Sound Options -->
+        <div class="controls">
+            <label for="sessionTime">Select Meditation Time (minutes):</label>
+            <input type="number" id="sessionTime" min="1" value="5" required aria-label="Meditation time in minutes">
+
+            <label for="sound">Choose a Sound:</label>
+            <select id="sound" aria-label="Sound Selection">
+                <option value="none">None</option>
+                <option value="rain">Rain</option>
+                <option value="ocean">Ocean</option>
+                <option value="forest">Forest</option>
+            </select>
+
+            <div class="buttons">
+                <button id="startButton">Start Meditation</button>
+                <button id="resetButton" type="button">Reset</button>
+            </div>
+        </div>
+
+        <!-- Timer Display -->
+        <div id="timerDisplay" aria-live="polite">5:00</div>
+
+    </div>
+
+    <!-- Audio Elements for Calming Sounds -->
+    <audio id="rainAudio" src="sounds/rain.mp3" preload="auto"></audio>
+    <audio id="oceanAudio" src="sounds/ocean.mp3" preload="auto"></audio>
+    <audio id="forestAudio" src="sounds/forest.mp3" preload="auto"></audio>
+    <audio id="endSound" src="sounds/bell.mp3" preload="auto"></audio>
+
+    <!-- JavaScript -->
+    <script src="script.js"></script>
+</body>
+</html>

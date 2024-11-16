@@ -1,0 +1,150 @@
+/* General Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+}
+
+body {
+    background-color: #f0f8ff; /* Light cyan background */
+    color: #333;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+/* Container Styles */
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 25px;
+    background-color: #ffffff;
+    border-radius: 15px;
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.container:hover {
+    transform: translateY(-5px); /* Lift effect on hover */
+}
+
+/* Title */
+h1 {
+    font-size: 2.8rem;
+    color: #34495e; /* Darker blue-grey */
+    margin-bottom: 25px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+/* Controls */
+.controls {
+    margin-bottom: 25px;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 1.2rem;
+    color: #2c3e50; /* Muted dark blue */
+}
+
+input[type="number"], select {
+    padding: 12px;
+    font-size: 1rem;
+    margin-bottom: 20px;
+    border: 2px solid #bdc3c7; /* Subtle grey border */
+    border-radius: 8px;
+    width: 100%;
+    transition: border-color 0.3s ease;
+}
+
+input[type="number"]:focus, select:focus {
+    border-color: #2980b9; /* Highlight border on focus */
+    outline: none;
+}
+
+/* Timer Display */
+#timerDisplay {
+    font-size: 4rem;
+    font-weight: bold;
+    margin-top: 30px;
+    color: #3498db; /* Bright blue for timer */
+    transition: color 0.5s ease, transform 0.5s ease;
+}
+
+#timerDisplay.warning {
+    color: #f39c12; /* Orange when time is running low */
+}
+
+#timerDisplay.danger {
+    color: #e74c3c; /* Red when time is almost up */
+}
+
+/* Button Styles */
+button {
+    background-color: #1abc9c; /* Green-teal */
+    color: white;
+    font-size: 1.2rem;
+    font-weight: bold;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    margin: 10px;
+}
+
+button:hover {
+    background-color: #16a085; /* Darker green-teal */
+}
+
+button:active {
+    transform: translateY(3px); /* Slight button press effect */
+}
+
+/* Reset Button */
+#resetButton {
+    background-color: #e74c3c; /* Red */
+}
+
+#resetButton:hover {
+    background-color: #c0392b; /* Darker red */
+}
+
+/* Custom Animations */
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.05);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+#timerDisplay.warning, #timerDisplay.danger {
+    animation: pulse 1s infinite; /* Pulsing effect for warning/danger */
+}
+
+/* Media Queries for Responsive Design */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 2.2rem;
+    }
+
+    #timerDisplay {
+        font-size: 3.5rem;
+    }
+
+    button {
+        font-size: 1.1rem;
+        padding: 10px 20px;
+    }
+
+    input[type="number"], select {
+        padding: 10px;
+    }
+}
