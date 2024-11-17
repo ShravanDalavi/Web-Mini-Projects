@@ -10,7 +10,8 @@ Audio Feedback: Plays a bell sound when the session ends to signal completion.
 ## Demo
 [Link to demo](https://57ymkh.csb.app/)
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/37f22306-085f-4492-a88b-e856e7c21ca0)
+
 
 ## Installation
 1. Clone the repository to your local machine:
