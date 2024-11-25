@@ -10,7 +10,7 @@ This repository is a collection of mini web projects built with HTML, CSS, and J
 Here is a list of the projects included in this repository:
 | **No.** | **Name** |  **Demo** |
 | ------- | -------- | -------- | 
-|  **01** | [**Analog Clock**](https://github.com/ShravanDalavi/Web-Mini-Projects/blob/main/projects/Analog%20Clock/src/index.html) | [Link](https://4nz2kd.csb.app/) | 
+|  **01** | [**Analog Clock**](https://github.com/ShravanDalavi/Web-Mini-Projects/blob/main/projects/Analog%20Clock/) | [Link](https://4nz2kd.csb.app/) | 
 |  **02** | [**Color Palette Picker**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Color%20Palette%20Picker)| [Link](https://codepen.io/Shravan-Dalavi/pen/bGPqXVz) | 
 |  **03** | [**Countdown Timer**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Countdown%20Timer)  | [Link](https://codepen.io/Shravan-Dalavi/pen/RwzpXrM) |
 |  **04** | [**Daily Journal Web App**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Daily%20Journal%20Web%20App)  | [Link](https://codepen.io/Shravan-Dalavi/pen/XWvbezL) |
