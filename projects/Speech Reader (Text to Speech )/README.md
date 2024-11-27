@@ -8,6 +8,9 @@ A web-based application that converts text into speech using the browser's built
 - **Voice Options**: Allows users to select from a list of available voices based on their language and preferences.
 - **Responsive Design**: Adapts to various screen sizes for a seamless user experience.
 
+## Demo
+[Link to demo](https://k8xj9s.csb.app/).
+
 ## Installation
 
 1. Clone the repository:
