@@ -9,7 +9,7 @@ A web-based application that converts text into speech using the browser's built
 - **Responsive Design**: Adapts to various screen sizes for a seamless user experience.
 
 ## Demo
-[Link to demo](https://k8xj9s.csb.app/).
+[Link to demo](https://k8xj9s.csb.app/)
 
 ## Installation
 
