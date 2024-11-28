@@ -26,8 +26,8 @@ Here is a list of the projects included in this repository:
 |  **14** | [**Personal Finance Manager (Expense Tracker)**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Personal%20Finance%20Manager)  | [Link](https://codepen.io/Shravan-Dalavi/pen/poXPPpr) | 
 |  **15** | [**Rock Paper Scissors Game**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Rock%20Paper%20Scissor%20Game)  | [Link](https://codepen.io/Shravan-Dalavi/pen/jOjoZyV) | 
 |  **16** | [**Speech Reader (Text to Speech**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Speech%20Reader%20(Text%20to%20Speech%20))| [Link](https://k8xj9s.csb.app/) | 
-|  **16** | [**Ticket Management System**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Ticket%20Management)  | [Link](https://2jt5ft.csb.app/) | 
-|  **17** | [**Weather-Based Outfit Recommender**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Weather%20Based%20Outfit%20Recommender)  | [Link](https://fhrwcx.csb.app/) |
+|  **17** | [**Ticket Management System**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Ticket%20Management)  | [Link](https://2jt5ft.csb.app/) | 
+|  **18** | [**Weather-Based Outfit Recommender**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Weather%20Based%20Outfit%20Recommender)  | [Link](https://fhrwcx.csb.app/) |
 
 ## How to Run
 To run these projects locally, follow these steps :
