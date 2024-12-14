@@ -18,7 +18,6 @@ A browser-based drawing application with a variety of tools and features to unle
 
 ![image](https://github.com/user-attachments/assets/a2a6dc57-8c96-44e4-9531-280c6435a97e)
 
-
 ## Installation
 
 1. Clone the repository:
