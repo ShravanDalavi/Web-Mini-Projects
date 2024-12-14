@@ -1,0 +1,51 @@
+/* Fullscreen canvas */
+canvas {
+  display: block; /* Removes scrollbars */
+  margin: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw; /* Full width */
+  height: 100vh; /* Full height */
+  background: #f5f5f5;
+}
+
+/* Bottom toolbar styling */
+.toolbox {
+  position: absolute;
+  bottom: 0; /* Docked at the bottom */
+  left: 0;
+  width: 100%; /* Full width toolbar */
+  display: flex;
+  justify-content: space-around; /* Space between tools */
+  align-items: center;
+  padding: 10px;
+  background: linear-gradient(90deg, #6a1b9a, #8e24aa);
+  box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.3);
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.toolbox button,
+.toolbox input[type="color"],
+.toolbox span {
+  border-radius: 10px; /* Rounded edges for tools */
+  padding: 10px;
+  font-size: 1.5rem;
+  background: white;
+  border: none;
+  cursor: pointer;
+  transition: transform 0.2s ease, background-color 0.3s ease;
+}
+
+.toolbox button:hover,
+.toolbox input[type="color"]:hover {
+  transform: scale(1.1);
+  background-color: #f0f0f0;
+}
+
+#size {
+  font-size: 1.2rem;
+  color: #333;
+  font-weight: bold;
+}
