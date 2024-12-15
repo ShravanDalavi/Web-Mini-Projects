@@ -40,7 +40,6 @@ cd enhanced-drawing-app
 3. Start drawing directly on the canvas!
 
 ## Customization
-
 - Styling: Customize the look and feel by editing style.css.
 - Functionality: Add or modify drawing features by extending script.js.
 
