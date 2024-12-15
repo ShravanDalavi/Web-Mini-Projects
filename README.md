@@ -15,7 +15,7 @@ Here is a list of the projects included in this repository:
 |  **04** | [**Daily Journal Web App**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Daily%20Journal%20Web%20App)  | [Link](https://codepen.io/Shravan-Dalavi/pen/XWvbezL) |
 |  **05** | [**Date Difference Calculator**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Date%20Calculate)  | [Link]() | 
 |  **06** | [**Digital Clock**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Digital%20Clock)  | [Link](https://codepen.io/Shravan-Dalavi/pen/vYqxoGR) |
-|  **07** | [**Enhanced Drawing App (Whiteboard)**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Enhanced%20Drawing%20App%20(Whiteboard))  | [Link](https://codepen.io/Shravan-Dalavi/pen/oNrWLKZ) |
+|  **07** | [**Enhanced Drawing App (Whiteboard)**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Enhanced%20Drawing%20App%20(Whiteboard))  | [Link](https://tynvtx.csb.app/) |
 |  **07** | [**Event Countdown Timer**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Event%20Countdown%20Timer)  | [Link](https://codepen.io/Shravan-Dalavi/pen/xxovaxK)| 
 |  **08** | [**Image Search**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Image%20Search)  | [Link](https://codepen.io/Shravan-Dalavi/pen/gONWMNe) |
 |  **09** | [**Mindfulness Meditation Timer**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Mindfulness%20Meditation%20Timer)  | [Link](https://57ymkh.csb.app/) |
