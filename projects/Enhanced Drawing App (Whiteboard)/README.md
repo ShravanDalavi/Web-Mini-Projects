@@ -3,7 +3,6 @@
 A browser-based drawing application with a variety of tools and features to unleash your creativity. This app provides a full-screen canvas with an intuitive toolbox for customization.
 
 ## Features
-
 - **Brush Size Adjustment**: Increase or decrease the brush size dynamically.
 - **Color Picker**: Choose custom brush colors using a color input tool.
 - **Eraser Mode**: Switch to eraser mode to remove parts of the drawing.
