@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Photo Gallery</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="script.js">
+    
+</head>
+<body>
+    <div class="gallery">
+        <!-- Add your images here -->
+        <img src="Photo/Srt stand.jpg" alt="Image 1">
+        <img src="Photo/Trophy.jpg" alt="Image 2">
+        <img src="Photo/2011 vibes.jpg" alt="Image 3">
+        <img src="Photo/Team on bus.jpg" alt="Image 4">
+        <img src="Photo/IMG_20240704_233606_378_polarr_3.jpg" alt="Image 5">
+        <img src="Photo/IMG_20240704_234733_479_polarr.jpg" alt="Image 6">
+        <img src="Photo/Indian team wallpaper.jpg" alt="Image 7">
+        <img src="Photo/ICT victory parade.jpg" alt="Image 8">
+        <img src="Photo/20240705_000054_polarr_5.jpg" alt="Image 9">
+        <!-- More images -->
+    </div>
+
+    <div class="lightbox" id="lightbox">
+        <span class="close" onclick="closeLightbox()">×</span>
+        <img id="lightbox-img" src="">
+    </div>
+
+    <div class="grid-wrapper">
+        <input type="checkbox" id="toggle">
+       
+        <div class="grid" style="--n: 4; --img1: url('image1.jpg'); --img2: url('image2.jpg');">
+            <div class="cell" style="--i: 0; --j: 0;"></div>
+            <div class="cell" style="--i: 0; --j: 1;"></div>
+            <div class="cell" style="--i: 0; --j: 2;"></div>
+            <div class="cell" style="--i: 0; --j: 3;"></div>
+            <div class="cell" style="--i: 1; --j: 0;"></div>
+            <div class="cell" style="--i: 1; --j: 1;"></div>
+            <div class="cell" style="--i: 1; --j: 2;"></div>
+            <div class="cell" style="--i: 1; --j: 3;"></div>
+            <div class="cell" style="--i: 2; --j: 0;"></div>
+            <div class="cell" style="--i: 2; --j: 1;"></div>
+            <div class="cell" style="--i: 2; --j: 2;"></div>
+            <div class="cell" style="--i: 2; --j: 3;"></div>
+            <div class="cell" style="--i: 3; --j: 0;"></div>
+            <div class="cell" style="--i: 3; --j: 1;"></div>
+            <div class="cell" style="--i: 3; --j: 2;"></div>
+            <div class="cell" style="--i: 3; --j: 3;"></div>
+        </div>
+    </div>
+
+    <script>
+        const images = document.querySelectorAll('.gallery img');
+        const lightbox = document.getElementById('lightbox');
+        const lightboxImg = document.getElementById('lightbox-img');
+
+        images.forEach(image => {
+            image.addEventListener('click', () => {
+                lightbox.style.display = 'flex';
+                lightboxImg.src = image.src;
+            });
+        });
+
+        function closeLightbox() {
+            lightbox.style.display = 'none';
+        }
+    </script>
+</body>
+</html>
