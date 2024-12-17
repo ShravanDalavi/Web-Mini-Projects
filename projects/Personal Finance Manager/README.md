@@ -15,7 +15,7 @@ This is a simple web-based Personal Finance Manager application that helps you t
 - **Local Storage**: Stores transactions in the browser's local storage, so your data persists across sessions.
 
 ## Demo
-[Link to demo](https://codepen.io/Shravan-Dalavi/pen/poXPPpr)
+[Link to demo](https://7t8kht.csb.app/)
 
 
 ![image](https://github.com/user-attachments/assets/5dc10e84-4c5b-4404-b027-7ac9845c6cea)
