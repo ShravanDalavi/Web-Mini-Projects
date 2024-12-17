@@ -10,6 +10,11 @@ An interactive ticket management system designed for users to book tickets, view
 - **Lightbox Image Viewing**: Integrated lightbox to view ticket images or relevant photos.
 - **Responsive Design**: Mobile-friendly and adapts to various screen sizes.
 
+## Demo
+[Link to demo](https://lf36l9.csb.app/)
+
+
+
 ## Installation
 
 1. Clone the repository:
