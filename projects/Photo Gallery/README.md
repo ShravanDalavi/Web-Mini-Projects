@@ -29,39 +29,49 @@ An interactive ticket management system designed for users to book tickets, view
 
 ## Installation
 
-1. Clone the repository:
-```bash
-   git clone https://github.com/your-username/photo-Gallery.git
-```
-2. Navigate to the project directory:
-```bash
-cd ticket-management-system
-
-```
-3. Open the `Index.html` file in your preferred web browser to start using the system.
+1. Clone or Download the repository containing the files.
+2. Ensure File Structure:
+- Place the `index.html`, `styles.css`, and `script.js` in the root folder.
+- Create a `Photo` folder for images and place all relevant photos there.
+3. Open the `index.html` file in a web browser to view the gallery.
 
 ## Usage
 
-1. Booking a Ticket:
- - Open the `Index.html` file in your browser.
- - Fill in the required details such as name, seat number, date, and travel locations.
- - Click the "Book Ticket" button to submit your booking.
-2. Viewing Ticket History:
- - Click on the "View History" button to see all booked tickets in a table format.
-3. Deleting a Ticket:
- - Click the "Delete" button next to a ticket entry to remove it from the history.
+1. Image Viewing:
+
+Hover over the images to see the interactive effect.
+Click on an image to view it in a lightbox.
+Close the lightbox using the × button.
+2. Navigation:
+
+Scroll through the gallery to browse available images.
+Responsive layout ensures usability across devices.
 
 
 ## Customization
-- Styling: Edit `Index.css` to change the appearance of the ticket management interface.
-- Functionality: Modify `Index.js` to extend or customize the ticket booking and history logic.
+1. Adding Images:
+
+Place new images in the `Photo` folder.
+Add corresponding `<img` tags in the `index.html` file within the `.gallery div`.
+2. Styling:
+
+Modify `styles.css` for changes to colors, fonts, spacing, or layout.
+Adjust hover and animation effects by editing the CSS transitions or keyframes.
+3. JavaScript Enhancements:
+
+Extend functionality in `script.js`, such as adding slideshow capabilities or integrating third-party libraries.
 
 ## File Structure
 ```graphql
-ticket-management-system/
+Photo Gallery/
 │
-├── Index.html        # Main HTML structure of the ticket management system
-├── Index.css         # CSS file for styling the application
-└── Index.js          # JavaScript file for handling interactivity and ticket logic
+├── index.html   # Main HTML file for the gallery
+├── styles.css   # Styling for the gallery and lightbox
+├── script.js    # JavaScript for lightbox functionality
+├── Photo/       # Folder containing all gallery images
+│   ├── Image1.jpg
+│   ├── Image2.jpg
+│   └── ...
+
 ```
 
