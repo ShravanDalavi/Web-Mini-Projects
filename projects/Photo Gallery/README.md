@@ -43,6 +43,7 @@
 Hover over the images to see the interactive effect.
 Click on an image to view it in a lightbox.
 Close the lightbox using the × button.
+
 2. Navigation:
 
 Scroll through the gallery to browse available images.
@@ -54,10 +55,12 @@ Responsive layout ensures usability across devices.
 
 Place new images in the `Photo` folder.
 Add corresponding `<img` tags in the `index.html` file within the `.gallery div`.
+
 2. Styling:
 
 Modify `styles.css` for changes to colors, fonts, spacing, or layout.
 Adjust hover and animation effects by editing the CSS transitions or keyframes.
+
 3. JavaScript Enhancements:
 
 Extend functionality in `script.js`, such as adding slideshow capabilities or integrating third-party libraries.
