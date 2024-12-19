@@ -1,5 +1,8 @@
 # Photo Gallery
 
+This project is a simple **Photo Gallery** application combined with a form for uploading image details. Users can view a gallery of photos, and administrators or users can add new photos by filling out the provided form.
+
+
 ## Features
 
 1. Responsive Design:
