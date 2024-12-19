@@ -1,7 +1,5 @@
 # Photo Gallery
 
-An interactive ticket management system designed for users to book tickets, view ticket history, and manage bookings through an easy-to-use interface. 
-
 ## Features
 
 1. Responsive Design:
