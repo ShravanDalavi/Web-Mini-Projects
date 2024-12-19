@@ -6,13 +6,16 @@
 
 - The gallery adapts to different screen sizes using CSS media queries.
 - Images resize dynamically for mobile and desktop views.
+  
 2. Interactive Lightbox:
 
 - Clicking an image opens it in a fullscreen lightbox for better viewing.
 - Includes a close button to exit the lightbox.
+
 3. Hover Effects:
 
 - Images scale and show a shadow effect when hovered over.
+
 4. Grid Display:
 
 - A grid-based structure showcases multiple images in an organized manner.
