@@ -31,7 +31,7 @@ An interactive ticket management system designed for users to book tickets, view
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/your-username/ticket-management-system.git
+   git clone https://github.com/your-username/photo-Gallery.git
 ```
 2. Navigate to the project directory:
 ```bash
