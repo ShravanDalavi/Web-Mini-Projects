@@ -1,14 +1,25 @@
-# Ticket Management System
+# Photo Gallery
 
 An interactive ticket management system designed for users to book tickets, view ticket history, and manage bookings through an easy-to-use interface. 
 
 ## Features
 
-- **Ticket Booking**: Book tickets by filling out essential details like name, seat number, date, and locations.
-- **Ticket History View**: See a detailed history of all booked tickets in a table format.
-- **Delete Tickets**: Remove individual tickets from the booking history.
-- **Lightbox Image Viewing**: Integrated lightbox to view ticket images or relevant photos.
-- **Responsive Design**: Mobile-friendly and adapts to various screen sizes.
+1. Responsive Design:
+
+- The gallery adapts to different screen sizes using CSS media queries.
+- Images resize dynamically for mobile and desktop views.
+2. Interactive Lightbox:
+
+- Clicking an image opens it in a fullscreen lightbox for better viewing.
+- Includes a close button to exit the lightbox.
+3. Hover Effects:
+
+- Images scale and show a shadow effect when hovered over.
+4. Grid Display:
+
+- A grid-based structure showcases multiple images in an organized manner.
+- Includes animation for a dynamic and interactive experience.
+
 
 ## Demo
 [Link to demo](https://lf36l9.csb.app/)
