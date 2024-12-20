@@ -25,7 +25,8 @@ Here is a list of the projects included in this repository:
 |  **13** | [**Online Poll Creator**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Online%20Poll%20Creator)  | [Link](https://lzm79s.csb.app/) | 
 |  **14** | [**Password Generator**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Password%20Generator)  | [Link](https://codepen.io/Shravan-Dalavi/pen/WNqjxVL) | 
 |  **15** | [**Personal Finance Manager (Expense Tracker)**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Personal%20Finance%20Manager)  | [Link](https://7t8kht.csb.app/) | 
-|  **16** | [**Rock Paper Scissors Game**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Rock%20Paper%20Scissor%20Game)  | [Link](https://codepen.io/Shravan-Dalavi/pen/jOjoZyV) | 
+|  **16** | [**Photo Gallery**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Photo%20Gallery)  | [Link](https://codepen.io/Shravan-Dalavi/pen/jOjoZyV) |
+|  **1** | [**Rock Paper Scissors Game**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Rock%20Paper%20Scissor%20Game)  | [Link](https://codepen.io/Shravan-Dalavi/pen/jOjoZyV) | 
 |  **17** | [**Speech Reader (Text to Speech)**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Speech%20Reader%20(Text%20to%20Speech%20))| [Link](https://k8xj9s.csb.app/) | 
 |  **18** | [**Ticket Management System**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Ticket%20Management)  | [Link](https://2jt5ft.csb.app/) | 
 |  **19** | [**Weather-Based Outfit Recommender**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Weather%20Based%20Outfit%20Recommender)  | [Link](https://fhrwcx.csb.app/) |
