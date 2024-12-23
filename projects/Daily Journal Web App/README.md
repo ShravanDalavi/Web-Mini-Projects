@@ -17,11 +17,19 @@ A simple web-based journal application that allows users to record their daily t
 
 
 ## Installation
+
 1. Clone the repository to your local machine:
-```bash 
-git clone https://github.com/your-username/daily-journal-app.git
+```bash
+git clone https://github.com/ShravanDalavi/Web-Mini-Projects.git
 ```
-2. Open the `index.html` file in your browser to start using the app.
+2. Navigate to the project folder:
+```bash
+cd Web-Mini-Projects/projects/Daily\ Journal\ Web\ App
+```
+3. Open `index.html` in your web browser to start the clock.
+```bash
+open index.html
+```
 
 ## Usage
 - Open the app in your browser.
