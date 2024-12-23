@@ -21,13 +21,20 @@ A browser-based drawing application with a variety of tools and features to unle
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/your-username/drawing-app.git
+   git clone https://github.com/ShravanDalavi/Web-Mini-Projects.git
+
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd enhanced-drawing-app
+cd Web-Mini-Projects/projects/Enhanced\ Drawing\ App\ \(Whiteboard\)
 ```
+3. Open the Application in Your Browser
+Open the index.html file in your browser:
+```bash
+open index.html
+```
+
 ## Usage
 1. Open the application in your browser.
 2. Use the toolbar at the bottom:
