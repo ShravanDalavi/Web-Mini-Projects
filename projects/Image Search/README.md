@@ -24,6 +24,9 @@ git clone https://github.com/ShravanDalavi/Web-Mini-Projects.git
 cd Web-Mini-Projects/projects/Image\ Search
 ```
 3. Open `index.html` in your web browser to start the clock.
+```bash
+open index.html
+```
 
 ## Usage
 1. Open the `index.html` file.
