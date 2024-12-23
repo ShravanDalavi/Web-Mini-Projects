@@ -21,12 +21,14 @@ A simple and interactive Ticket Management System that allows users to book tick
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/your-username/ticket-management-system.git
+   git clone https://github.com/ShravanDalavi/Web-Mini-Projects.git
+
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd ticket-management-system
+cd Web-Mini-Projects/projects/Ticket\ Management
+
 ```
 
 3. Open the `index.html` file in your web browser to use the application.
