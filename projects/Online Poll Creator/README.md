@@ -19,15 +19,18 @@ A simple web application that allows users to create online polls with customiza
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository to your local machine:
 ```bash
-   git clone https://github.com/your-username/online-poll-creator.git
+git clone https://github.com/ShravanDalavi/Web-Mini-Projects.git
 ```
-2. Navigate into the project directory:
-```bash 
-cd online-poll-creator
+2. Navigate to the project folder:
+```bash
+cd Web-Mini-Projects/projects/Online\ Poll\ Creator
 ```
-3. Open the `index.html` file in your preferred web browser to launch the application.
+3. Open `index.html` in your web browser to start the clock.
+```bash
+open index.html
+```
 
 ## Usage
 
