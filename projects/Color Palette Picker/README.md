@@ -16,8 +16,10 @@ A web application that generates a color palette and allows users to pick and co
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/color-palette-picker.git
+git clone https://github.com/ShravanDalavi/Web-Mini-Projects.git
 cd color-palette-picker
+cd Web-Mini-Projects/projects/Enhanced\ Color\ Palette\ 
+
 ```
 2. Open index.html in your preferred browser.
    
