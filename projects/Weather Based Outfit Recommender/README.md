@@ -16,16 +16,18 @@ A simple web application that recommends outfits based on the current weather co
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository to your local machine:
 ```bash
-   git clone https://github.com/ShravanDalavi/Web-Mini-Projects.git
-
+git clone https://github.com/ShravanDalavi/Web-Mini-Projects.git
 ```
-2. Navigate into the project directory:
+2. Navigate to the project folder:
 ```bash
-cd weather-outfit-recommender
+cd Web-Mini-Projects/projects/Weather\ Based\ Outfit\ Recommender
 ```
-3. Open the `index.html` file in your browser to start using the app.
+3. Open `index.html` in your web browser to start the clock.
+```bash
+open index.html
+```
 
 ## Usage
 1. When the page loads, the app will ask for your location to retrieve the current weather data.
