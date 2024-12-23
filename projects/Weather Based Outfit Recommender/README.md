@@ -18,7 +18,8 @@ A simple web application that recommends outfits based on the current weather co
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/yourusername/weather-outfit-recommender.git
+   git clone https://github.com/ShravanDalavi/Web-Mini-Projects.git
+
 ```
 2. Navigate into the project directory:
 ```bash
