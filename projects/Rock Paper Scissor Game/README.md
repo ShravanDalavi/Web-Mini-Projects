@@ -14,22 +14,18 @@ A simple and interactive Rock Paper Scissors game where a player competes agains
 ![image](https://github.com/user-attachments/assets/1c069b40-31ee-4e06-9247-cbb6243cef21)
 
 ## Installation
-To run this project locally, follow these steps:
-
-1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/yourusername/rock-paper-scissors.git
-    ```
-
-2. **Navigate into the project directory:**
-    ```bash
-    cd rock-paper-scissors
-    ```
-
-3. **Open `index.html` in a web browser to start the game:**
-    ```bash
-    open index.html
-    ```
+1. Clone the repository to your local machine:
+```bash
+git clone https://github.com/ShravanDalavi/Web-Mini-Projects.git
+```
+2. Navigate to the project folder:
+```bash
+cd Web-Mini-Projects/projects/Rock\ Paper\ Scissor\ Game
+```
+3. Open `index.html` in your web browser to start the clock.
+```bash
+open index.html
+```
 
 ## Usage
 1. Choose **Rock**, **Paper**, or **Scissors** by clicking the respective button.
