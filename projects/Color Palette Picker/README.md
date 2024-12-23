@@ -14,14 +14,18 @@ A web application that generates a color palette and allows users to pick and co
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository to your local machine:
 ```bash
 git clone https://github.com/ShravanDalavi/Web-Mini-Projects.git
-cd color-palette-picker
-cd Web-Mini-Projects/projects/Enhanced\ Color\ Palette\ 
-
 ```
-2. Open index.html in your preferred browser.
+2. Navigate to the project folder:
+```bash
+cd Web-Mini-Projects/projects/Color\ Palette\ Picker
+```
+3. Open `index.html` in your web browser to start the clock.
+```bash
+open index.html
+```
    
 ## Usage
 
