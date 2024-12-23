@@ -14,12 +14,19 @@ A simple digital clock that displays the current time based on the selected time
 ![image](https://github.com/user-attachments/assets/915e2307-d1c9-4b1e-8823-224264faeba1)
 
 ## Installation
-1. Clone the repository:
+
+1. Clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/digital-clock.git
-cd digital-clock
+git clone https://github.com/ShravanDalavi/Web-Mini-Projects.git
 ```
-2. Open `index.html` in your preferred browser.
+2. Navigate to the project folder:
+```bash
+cd Web-Mini-Projects/projects/Digital\ Clock
+```
+3. Open `index.html` in your web browser to start the clock.
+```bash
+open index.html
+```
 
 ## Usage
 1. Open the `index.html` file.
