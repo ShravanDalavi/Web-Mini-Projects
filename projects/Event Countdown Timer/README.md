@@ -16,15 +16,18 @@ A simple web-based countdown timer that allows users to add events and track the
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository to your local machine:
 ```bash
-   git clone https://github.com/yourusername/event-countdown-timer.git
+git clone https://github.com/ShravanDalavi/Web-Mini-Projects.git
 ```
-2. Navigate to the project directory:
+2. Navigate to the project folder:
 ```bash
-cd event-countdown-timer
+cd Web-Mini-Projects/projects/Event\ Countdown\ Timer
 ```
-3. Open the `index.html` file in your browser to start using the countdown timer.
+3. Open `index.html` in your web browser to start the clock.
+```bash
+open index.html
+```
 
 ## Usage
 1. Enter the event name in the "Event Name" input field.
