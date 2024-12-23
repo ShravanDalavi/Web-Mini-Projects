@@ -33,11 +33,18 @@ This project is a simple **Photo Gallery** application combined with a form for 
 
 ## Installation
 
-1. Clone or Download the repository containing the files.
-2. Ensure File Structure:
-- Place the `index.html`, `styles.css`, and `script.js` in the root folder.
-- Create a `Photo` folder for images and place all relevant photos there.
-3. Open the `index.html` file in a web browser to view the gallery.
+1. Clone the repository to your local machine:
+```bash
+git clone https://github.com/ShravanDalavi/Web-Mini-Projects.git
+```
+2. Navigate to the project folder:
+```bash
+cd Web-Mini-Projects/projects/Photo\ Gallery
+```
+3. Open `index.html` in your web browser to start the clock.
+```bash
+open index.html
+```
 
 ## Usage
 
