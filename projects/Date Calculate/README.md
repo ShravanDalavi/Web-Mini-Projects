@@ -16,16 +16,18 @@ A simple web application that calculates the difference between two dates, provi
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository to your local machine:
 ```bash
-   git clone https://github.com/yourusername/date-difference-calculator.git
+git clone https://github.com/ShravanDalavi/Web-Mini-Projects.git
 ```
-
-2. Navigate into the project directory:
+2. Navigate to the project folder:
 ```bash
-cd date-difference-calculator
+cd Web-Mini-Projects/projects/Date\ Calculate
 ```
-3. Open the `index.html` file in your browser to use the calculator.
+3. Open `index.html` in your web browser to start the clock.
+```bash
+open index.html
+```
 
 ## Usage
 
