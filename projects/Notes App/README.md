@@ -15,14 +15,19 @@ A simple and intuitive web-based notes app.
 
 
 ## Installation
-1. **Clone the Repository:**
-    ```sh
-    git clone <repository-url>
-    ```
-2. **Navigate to the Project Directory:**
-    ```sh
-    cd notes-app
-    ```
+
+1. Clone the repository to your local machine:
+```bash
+git clone https://github.com/ShravanDalavi/Web-Mini-Projects.git
+```
+2. Navigate to the project folder:
+```bash
+cd Web-Mini-Projects/projects/Notes\ App
+```
+3. Open `index.html` in your web browser to start the clock.
+```bash
+open index.html
+```
 
 ## Usage
 1. **Open the `index.html` File:**
