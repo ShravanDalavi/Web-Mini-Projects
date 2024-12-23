@@ -19,18 +19,16 @@ You can view a live demo of the Multi-Step Form here : [Demo URL](https://7wn8dp
 ## Installation
 
 1. Clone the repository to your local machine:
- ```bash
-    git clone https://github.com/yourusername/multi-step-form.git
-```
-
-2. Navigate to the project directory:
 ```bash
-    cd multi-step-form
+git clone https://github.com/ShravanDalavi/Web-Mini-Projects.git
 ```
-
-3. Open the `index.html` file in your browser:
+2. Navigate to the project folder:
 ```bash
-    open index.html
+cd Web-Mini-Projects/projects/Multi\ Step\ Form
+```
+3. Open `index.html` in your web browser to start the clock.
+```bash
+open index.html
 ```
 
 ## Usage
