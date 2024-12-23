@@ -15,12 +15,19 @@ A web application to generate secure passwords with customizable options such as
 ![image](https://github.com/user-attachments/assets/34875ed2-46ad-4d1c-bec9-ace6c68a371c)
 
 ## Installation
-1. Clone the repository:
+1. Clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/password-generator.git
-cd password-generator
+git clone https://github.com/ShravanDalavi/Web-Mini-Projects.git
 ```
-2. Open index.html in your preferred browser.
+2. Navigate to the project folder:
+```bash
+cd Web-Mini-Projects/projects/Password\ Generator
+
+```
+3. Open `index.html` in your web browser to start the clock.
+```bash
+open index.html
+```
 
 ## Usage
 1. Open the index.html file.
