@@ -44,7 +44,10 @@ To run these projects locally, follow these steps :
     ```
     
 3. Open the `index.html` file in your web browser to view and run the project.
-
+    ```bash
+    open index.html
+    ```
+    
 ## Technologies Used
 - HTML
 - CSS
