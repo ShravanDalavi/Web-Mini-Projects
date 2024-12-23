@@ -22,19 +22,19 @@ This is a simple web-based Personal Finance Manager application that helps you t
 
 
 ## Installation
-1. **Clone the repository:**
+1. Clone the repository to your local machine:
+```bash
+git clone https://github.com/ShravanDalavi/Web-Mini-Projects.git
+```
+2. Navigate to the project folder:
+```bash
+cd Web-Mini-Projects/projects/Personal\ Finance\ Manager
 
-    ```sh
-    git clone https://github.com/yourusername/expense-tracker.git
-    ```
-2. **Navigate to the project directory:**
-
-    ```sh
-    cd expense-tracker
-    ```
-3. **Open `index.html` in your web browser:**
-
-    You can simply open the `index.html` file in your web browser to start using the application.
+```
+3. Open `index.html` in your web browser to start the clock.
+```bash
+open index.html
+```
 
 ## Usage
 1. **Add a Transaction:**
