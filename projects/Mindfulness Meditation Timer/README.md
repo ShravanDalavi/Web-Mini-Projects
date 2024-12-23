@@ -16,14 +16,16 @@ Audio Feedback: Plays a bell sound when the session ends to signal completion.
 ## Installation
 1. Clone the repository to your local machine:
 ```bash
-git clone https://github.com/your-username/meditation-timer.git
+git clone https://github.com/ShravanDalavi/Web-Mini-Projects.git
 ```
 2. Navigate to the project folder:
 ```bash
-
-cd meditation-timer
+cd Web-Mini-Projects/projects/Mindfulness\ Meditation\ Timer
 ```
-3. Open `index.html` in your web browser to start using the timer.
+3. Open `index.html` in your web browser to start the clock.
+```bash
+open index.html
+```.
 
 ## Usage
 
