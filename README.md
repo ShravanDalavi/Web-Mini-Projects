@@ -31,6 +31,8 @@ Here is a list of the projects included in this repository:
 |  **19** | [**Ticket Management System**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Ticket%20Management)  | [Link](https://2jt5ft.csb.app/) | 
 |  **20** | [**Weather-Based Outfit Recommender**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Weather%20Based%20Outfit%20Recommender)  | [Link](https://fhrwcx.csb.app/) |
 
+---
+
 ## How to Run
 To run these projects locally, follow these steps :
 1. Clone the repository to your local machine :
@@ -48,7 +50,8 @@ To run these projects locally, follow these steps :
     ```bash
     open index.html
     ```
-    
+---
+
 ## Technologies Used
 - HTML
 - CSS
@@ -58,12 +61,16 @@ To run these projects locally, follow these steps :
 - Socket.io (for real-time applications)
 - Various APIs
 
+---
+
 ## Prerequisites
 Before running these projects, ensure you have the following installed on your machine:
 - A web browser (e.g., Chrome, Firefox, Safari)
 - A text editor or IDE (e.g., VS Code, Sublime Text)
 
 For certain projects that may involve additional tooling, follow any specific instructions provided in the project's subfolder.
+
+---
 
 ## How can I read this tutorial without an Internet connection? <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" />
 1. Go [**`here`**](https://github.com/ShravanDalavi/Web-Mini-Projects) and click the big green ➞  **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**](https://github.com/shravandalavi/Web-Mini-Projects/archive/refs/heads/main.zip).
@@ -81,6 +88,8 @@ This will clear all the outputs and now you can understand each statement and le
 
 If you have git and you know how to use it, you can also clone the repository instead of downloading a zip and extracting it. An advantage with doing it this way is that you don't need to download the whole tutorial again to get the latest version of it, all you need to do is to pull with git and run ipython notebook again.
 
+---
+
 ## Licence 📜
 You may use this tutorial freely at your own risk. See [LICENSE](./LICENSE).
 
@@ -92,7 +101,9 @@ You may use this tutorial freely at your own risk. See [LICENSE](./LICENSE).
 - Ashwini Sonawane
   - Contact: ashwinisonawane@gmail.com
   - GitHub:  [Profile](https://github.com/SonawaneAshwini)
-    
+
+---
+
 ### Feedback and Support
 We value your input! If you encounter any issues or have suggestions, please open an issue in this repository. Your feedback helps us improve!
 
