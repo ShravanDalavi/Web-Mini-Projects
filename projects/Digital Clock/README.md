@@ -1,4 +1,5 @@
 ## Digital Clock
+
 A simple digital clock that displays the current time based on the selected time zone and format (12-hour or 24-hour). Built with HTML, CSS, and JavaScript.
 
 ## Features
