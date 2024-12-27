@@ -1,0 +1,161 @@
+/* Define a color theme */
+:root {
+    --primary-bg: #f0f8ff; /* Light Alice Blue */
+    --secondary-bg: #3a506b; /* Deep Blue */
+    --primary-color: #1c7293; /* Calm Teal */
+    --accent-color: #ff6f61; /* Warm Coral */
+    --text-color: #2c3e50; /* Dark Slate Gray */
+    --light-text: #ffffff; /* White for light text */
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    min-height: 100vh;
+    background-color: var(--primary-bg);
+    color: var(--text-color);
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.header_title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: var(--primary-color);
+    animation: pulse 2s infinite;
+}
+
+/* Add a hover effect for a dark mode toggle, for example */
+.dark-mode body {
+    background-color: var(--secondary-bg);
+    color: var(--light-text);
+}
+
+.dark-mode .header_title {
+    color: var(--accent-color);
+}
+
+
+
+
+/* Custom Box styles */
+.custom-box {
+    background: rgba(255, 255, 255, 0.1);
+    border: 2px solid var(--accent-color);
+    border-radius: 15px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+.custom-box:hover {
+    transform: scale(1.02);
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+.custom-box-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: var(--accent-color);
+    margin-bottom: 10px;
+}
+
+.custom-box-content {
+    font-size: 1rem;
+    color: var(--text-color);
+}
+
+/* Card styles */
+.card {
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    border-radius: 20px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+    transition: background 0.3s ease;
+}
+
+/* Input styles */
+.wrap_input {
+    border: 2px solid var(--accent-color);
+    border-radius: 25px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    color: var(--accent-color);
+    background: transparent;
+    transition: all 0.3s ease;
+}
+
+.wrap_input:focus {
+    border-color: var(--focus-color);
+    box-shadow: 0 0 10px rgba(var(--focus-color-rgb), 0.8);
+}
+
+/* Button styles */
+.wrap_btn {
+    background: linear-gradient(45deg, var(--button-start), var(--button-end));
+    border: none;
+    border-radius: 25px;
+    color: #fff;
+    padding: 10px 30px;
+    font-size: 1rem;
+    transition: transform 0.3s ease, background 0.3s ease;
+}
+
+.wrap_btn:hover {
+    transform: scale(1.1);
+    background: linear-gradient(45deg, var(--button-hover-start), var(--button-hover-end));
+}
+
+/* Result box */
+.wrap_result {
+    display: none;
+    font-size: 1.2rem;
+    font-weight: bold;
+    animation: slideDown 0.5s ease-in-out;
+}
+
+/* Light Mode */
+.light-mode {
+    --bg-color: #f5f5f5;
+    --text-color: #333;
+    --accent-color: #007bff;
+    --focus-color: #0056b3;
+    --focus-color-rgb: 0, 86, 179;
+    --button-start: #007bff;
+    --button-end: #0056b3;
+    --button-hover-start: #0056b3;
+    --button-hover-end: #003d7f;
+}
+
+/* Dark Mode */
+.dark-mode {
+    --bg-color: #121212;
+    --text-color: #fff;
+    --accent-color: #FFD700;
+    --focus-color: #1E90FF;
+    --focus-color-rgb: 30, 144, 255;
+    --button-start: #FFD700;
+    --button-end: #FF8C00;
+    --button-hover-start: #FF8C00;
+    --button-hover-end: #FFD700;
+}
+
+/* Apply background and text colors */
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+}
+
+
+/* Define the pulse animation */
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.05);
+    }
+    100% {
+        transform: scale(1);
+    }
+}

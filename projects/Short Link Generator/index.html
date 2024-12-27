@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="./style.css">
+    <title>Short Link Generator</title>
+</head>
+<body class="bg-gradient text-light dark-mode">
+    <header class="header py-4">
+        <div class="container d-flex justify-content-between align-items-center">
+            <h1 class="header_title">🔗 Short Link Generator</h1>
+            <button id="themeToggle" class="btn btn-light">🌙 Dark Mode</button>
+        </div>
+    </header>
+    <main>
+        <div class="container py-5">
+            <!-- Custom Box -->
+            <div class="custom-box mb-4">
+                <h2 class="custom-box-title">Welcome!</h2>
+                <p class="custom-box-content">
+                    Use this tool to quickly generate short links for your URLs. Toggle between light and dark modes for a personalized experience.
+                </p>
+            </div>
+
+            <!-- Short Link Generator Card -->
+            <div class="card mx-auto p-4 shadow-lg border-0 glass-effect" style="max-width: 600px;">
+                <div class="mb-3">
+                    <input type="text" class="form-control form-control-lg wrap_input" placeholder="Enter your URL here">
+                </div>
+                <div class="d-flex justify-content-center mb-3">
+                    <button class="btn btn-gradient btn-lg wrap_btn">Generate Short Link</button>
+                </div>
+                <div class="wrap_result p-3 text-center rounded bg-light text-dark"></div>
+            </div>
+        </div>
+    </main>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="./script.js"></script>
+</body>
+</html>
