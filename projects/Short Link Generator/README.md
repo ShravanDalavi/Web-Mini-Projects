@@ -17,9 +17,10 @@ This is a user-friendly web application that allows users to generate short link
 ## Demo
 [Link to demo](https://qws2hl.csb.app/)
 
-###Light Mode
+### Light Mode
 
-###Dark Mode
+
+### Dark Mode
 
 
 ## Installation
