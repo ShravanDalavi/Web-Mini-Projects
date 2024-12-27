@@ -13,7 +13,7 @@ ___
 
 ![image](https://github.com/user-attachments/assets/96b6dd8a-603e-4a96-9c3c-5011869bcb38)
 
-
+--- 
 ## Installation
 
 1. Clone the repository to your local machine:
