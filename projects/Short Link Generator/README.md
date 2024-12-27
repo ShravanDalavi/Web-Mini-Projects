@@ -23,7 +23,7 @@ This is a user-friendly web application that allows users to generate short link
 ### Dark Mode
 ![image](https://github.com/user-attachments/assets/728aaa01-8311-4947-b788-13d27e2376a5)
 
-
+----
 ## Installation
 
 1. Clone the repository to your local machine:
