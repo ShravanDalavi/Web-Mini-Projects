@@ -7,7 +7,7 @@ A simple and intuitive web-based notes app.
 - Delete Notes: Remove notes when they are no longer needed.
 - Responsive Design: The app is responsive and works well on different screen sizes.
 - User-friendly Interface: Clean and intuitive interface for easy note-taking.
-
+___
 ## Demo
 [Link to demo](https://codepen.io/Shravan-Dalavi/pen/oNrWLKZ)
 
