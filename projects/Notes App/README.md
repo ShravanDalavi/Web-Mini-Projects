@@ -28,18 +28,18 @@ cd Web-Mini-Projects/projects/Notes\ App
 ```bash
 open index.html
 ```
-
+---
 ## Usage
 1. **Open the `index.html` File:**
     Open the `index.html` file in a web browser to start using the Notes App.
-
+---
 ## Customization
 1. **Styling:**
     - Edit the `style.css` file to customize the appearance of the app.
 
 2. **JavaScript Functionality:**
     - Modify the `script.js` file to add new features or change existing ones.
-
+---
 ## File Structure
 ```s
 notes-app/
