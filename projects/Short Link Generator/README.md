@@ -15,18 +15,22 @@ This is a user-friendly web application that allows users to generate short link
 ---
 
 ## Demo
-[Link to demo](https://qws2hl.csb.app/).
+[Link to demo](https://qws2hl.csb.app/)
+
+###Light Mode
+
+###Dark Mode
 
 
 ## Installation
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/short-link-generator.git
+    git clone https://github.com/ShravanDalavi/Web-Mini-Projects.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd short-link-generator
+    cd Web-Mini-Projects/projects/Short\ Link\ Generator
     ```
 3. Open the `index.html` file in your web browser:
     ```bash
