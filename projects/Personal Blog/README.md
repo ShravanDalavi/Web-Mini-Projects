@@ -13,8 +13,8 @@ A dynamic, responsive, and interactive personal blogging platform where users ca
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/password-generator.git
-cd password-generator
+git clone https://github.com/ShravanDalavi/Web-Mini-Projects.git
+cd Web-Mini-Projects/projects/Personal\ Blog
 ```
 2. Open index.html in your preferred browser.
 
