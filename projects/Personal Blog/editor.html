@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Editor - Personal Blog</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <style>
+        /* General Styles */
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+        }
+
+        header {
+            background: linear-gradient(90deg, #007bff, #0056b3);
+            color: white;
+            padding: 1rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        header nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 1rem;
+            font-weight: bold;
+            transition: color 0.3s ease;
+        }
+
+        header nav a:hover {
+            color: #ffd700;
+        }
+
+        main {
+            padding: 2rem;
+        }
+
+        section h2 {
+            margin-bottom: 1rem;
+            color: #333;
+            text-align: center;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        /* Blog Editor Container */
+        #editor-container .blog {
+            background: white;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+            transform: translateY(0);
+            animation: fadeIn 0.8s ease-out;
+        }
+
+        #editor-container input, #editor-container textarea {
+            width: 100%;
+            padding: 1rem;
+            margin-bottom: 1rem;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+            box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1);
+            font-size: 1rem;
+            transition: border 0.3s ease;
+        }
+
+        #editor-container input:focus, #editor-container textarea:focus {
+            border: 1px solid #007bff;
+            outline: none;
+        }
+
+        #editor-container button {
+            padding: 0.5rem 1.5rem;
+            border: none;
+            border-radius: 5px;
+            margin-right: 0.5rem;
+            cursor: pointer;
+            font-weight: bold;
+            color: white;
+            transition: background-color 0.3s ease;
+        }
+
+        #editor-container button.save-btn {
+            background: #28a745;
+        }
+
+        #editor-container button.save-btn:hover {
+            background: #218838;
+        }
+
+        #editor-container button.publish-btn {
+            background: #007bff;
+        }
+
+        #editor-container button.publish-btn:hover {
+            background: #0056b3;
+        }
+
+        #editor-container button.delete-btn {
+            background: #dc3545;
+        }
+
+        #editor-container button.delete-btn:hover {
+            background: #c82333;
+        }
+
+        #editor-container input[type="file"] {
+            margin-top: 0.5rem;
+        }
+
+        /* Add New Blog Button */
+        #add-blog-btn {
+            display: block;
+            margin: 2rem auto;
+            background: linear-gradient(90deg, #6c757d, #343a40);
+            color: white;
+            border: none;
+            border-radius: 50px;
+            padding: 0.75rem 2rem;
+            cursor: pointer;
+            font-size: 1.2rem;
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        #add-blog-btn:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+        }
+
+        /* Animations */
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Blog Editor</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="login.html" id="logout-link">Logout</a>
+            <button id="dark-mode-toggle">Dark Mode</button>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Manage Blogs</h2>
+            <div id="editor-container">
+                <!-- Editable blog forms will be dynamically added here -->
+            </div>
+            <button id="add-blog-btn">Add New Blog</button>
+        </section>
+    </main>
+    <script src="js/app.js"></script>
+</body>
+</html>
