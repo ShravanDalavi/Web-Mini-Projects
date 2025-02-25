@@ -1,4 +1,5 @@
 # Image Search
+
 A web application that allows users to search for images using a keyword. The images are fetched from an API and displayed on the page.
 
 ## Features
