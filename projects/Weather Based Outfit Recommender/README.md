@@ -1,4 +1,5 @@
 # Weather-Based Outfit Recommender
+
 A simple web application that recommends outfits based on the current weather conditions. Using the OpenWeather API, the app fetches the user's location and weather data to provide tailored clothing suggestions.
 
 ## Features
