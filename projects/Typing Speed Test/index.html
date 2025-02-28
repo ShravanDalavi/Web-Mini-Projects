@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Typing Test</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Typing Test</h1>
+    <h2 id="currentLevel">Level 1</h2>
+    <p id="criteria">Criteria: WPM >= 10, Accuracy >= 80%</p>
+    <p id="sentence"></p>
+    <textarea id="inputBox" placeholder="Start typing here..."></textarea>
+    <div class="stats">
+      <p>WPM: <span id="wpm">0</span></p>
+      <p>Accuracy: <span id="accuracy">0%</span></p>
+    </div>
+    <p id="result"></p>
+    <button id="nextLevelBtn" style="display: none;">Next Level</button>
+    <button id="restartBtn">Restart Level</button>
+    <button id="homeBtn">Home</button>
+  </div>
+  <script src="js/main.js"></script>
+</body>
+</html>
