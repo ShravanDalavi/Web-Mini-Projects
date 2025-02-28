@@ -14,7 +14,7 @@ A web-based application designed to help users improve their typing speed and ac
 
 [Link to demo](https://dzc2s7.csb.app/dashboard.html)
 
-![image](https://github.com/user-attachments/assets/2251812e-abf1-4490-937c-cf207a5b05d8)
+![image](https://github.com/user-attachments/assets/a576c225-de7b-4f29-9e6b-b859ec5ecbcc)
 
 ![image](https://github.com/user-attachments/assets/38a01579-7829-48db-9968-a121e1640132)
 
