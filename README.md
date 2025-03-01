@@ -31,7 +31,8 @@ Here is a list of the projects included in this repository:
 |  **19** | [**Short Link Generator**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Short%20Link%20Generator)  | [Link](https://qws2hl.csb.app/) |
 |  **20** | [**Speech Reader (Text to Speech)**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Speech%20Reader%20(Text%20to%20Speech%20))| [Link](https://k8xj9s.csb.app/) | 
 |  **21** | [**Ticket Management System**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Ticket%20Management)  | [Link](https://2jt5ft.csb.app/) | 
-|  **22** | [**Weather-Based Outfit Recommender**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Weather%20Based%20Outfit%20Recommender)  | [Link](https://fhrwcx.csb.app/) |
+|  **22** | [**Typing Speed Test**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Typing%20Speed%20Test) | [Link](https://dzc2s7.csb.app/dashboard.html) | 
+|  **23** | [**Weather-Based Outfit Recommender**](https://github.com/ShravanDalavi/Web-Mini-Projects/tree/main/projects/Weather%20Based%20Outfit%20Recommender)  | [Link](https://fhrwcx.csb.app/) |
 
 ---
 
